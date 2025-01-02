@@ -1,0 +1,2392 @@
+{
+  "posts": [
+    {
+      "id": "3jmcNdUDLkQYi7RpRDRAMG",
+      "link": "/blog/this-is-a-test-blog-built-in-contentful/",
+      "date": "31 December 2024",
+      "author": "Yasmin",
+      "title": "this is a test blog built in contentful",
+      "intro": "this is a test blog built in contentful and this is the description",
+      "categories": [
+        "test-1",
+        "test-2",
+        "test-3"
+      ]
+    },
+    {
+      "id": "3jmcNdUDLkQYi7RpRDRAMG",
+      "link": "/blog/this-is-a-test-blog-built-in-contentful/",
+      "date": "31 December 2024",
+      "author": "Yasmin",
+      "title": "this is a test blog built in contentful",
+      "intro": "this is a test blog built in contentful and this is the description",
+      "categories": [
+        "test-1",
+        "test-2",
+        "test-3"
+      ]
+    },
+    {
+      "id": "9298",
+      "link": "/blog/what-does-brain-science-tell-us-we-should-be-testing",
+      "date": "23 December 2024",
+      "author": "Alla Bennett",
+      "title": "What does brain science tell us about what we should be testing?",
+      "intro": "This blog explores how brain science can help to understand why customers make decisions, helping to personalise their experiences.",
+      "categories": [
+        "User Behaviour",
+        "Improving Conversion",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "9297",
+      "link": "/blog/meet-the-partner-conversio",
+      "date": "22 November 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Meet the Partner Q&A - Conversio",
+      "intro": "Learn more about one of our strategic partners, Conversio, in our detailed Q&A.",
+      "categories": [
+        "Partner Q&A",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "id": "9296",
+      "link": "/blog/how-can-session-replay-tools-provide-an-optimised-user-experience",
+      "date": "14 November 2024",
+      "author": "Elin Mathers",
+      "title": "How can session replay tools provide an optimised user experience?",
+      "intro": "Session Replay tools can help you learn more about your users by working alongside your testing tools.",
+      "categories": [
+        "Session Replay",
+        "AB Testing",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9295",
+      "link": "/blog/does-growing-experimentation-in-your-organisation-require-political-approach/",
+      "date": "30 October 2024",
+      "author": "Chris Hood",
+      "title": "Does growing experimentation require a political approach?",
+      "intro": "When colleagues don’t buy into an experimentation programme, it can become political. Chris Hood explains how you can avoid this and show the value of testing.",
+      "categories": [
+        "AB Tes",
+        "Digital Marketing",
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "9294",
+      "link": "/blog/product-releases-an-update-from-this-quarter-q3-2024/",
+      "date": "21 October 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Product Release Update Q3 2024",
+      "intro": "We explore the improvements we are making to our product to make the UI as intuitive and usable as possible.",
+      "categories": [
+        "Product Updates",
+        "Business Updates",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9293",
+      "link": "/blog/back-to-basics-research-methods-and-experimentation/",
+      "date": "23 September 2024",
+      "author": "Chris Hood",
+      "title": "Back to Basics: Research Methods and Experimentation",
+      "intro": "With so much choice available, Chris Hood talks about which research method is right for you to achieve your optimisation goals.",
+      "categories": [
+        "Research",
+        "Improving Conversion",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9292",
+      "link": "/blog/affinity-modelling-the-missing-piece-to-personalisation/",
+      "date": "30 August 2024",
+      "author": "Sandeep Shah",
+      "title": "Affinity modelling: The missing piece to personalisation",
+      "intro": "Website personalisation has become more advanced, and Sandeep Shah explores how to utilise real-time personalisation to make your site as relevant as possible.",
+      "categories": [
+        "Personalisation",
+        "Improving Conversion",
+        "User Engagement"
+      ]
+    },
+    {
+      "id": "9291",
+      "link": "/blog/ab-testing-vs-mab-when-to-use-each-for-optimisation/",
+      "date": "26 August 2024",
+      "author": "Reema Singh",
+      "title": "AB Testing vs. Multi-Armed Bandits: When to use each for Optimisation",
+      "intro": "AB Testing and MAB are both valuable and useful testing methods, in this blog we explore at one point of your experimentation journey you should use them.",
+      "categories": [
+        "AB Test",
+        "Multi-Armed Bandits",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9290",
+      "link": "/blog/how-testing-and-behavioural-analytics-de-risk-website-migrations/",
+      "date": "August 13, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "How Testing and Behavioural Analytics de-risk Website Migration projects",
+      "intro": "We explore what you should consider when migrating a multifaceted website using The Goodwood Group’s recent experience as a live case study.",
+      "categories": [
+        "Website Migration",
+        "eCommerce",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9289",
+      "link": "/blog/product-release-update-q2-2024/",
+      "date": "July 29, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Product Release Update – Q2 2024",
+      "intro": "We summarise and explain our latest product releases from the second quarter of 2024, and the different things we have been working on to improve our product.",
+      "categories": [
+        "Product Updates",
+        "AB Test",
+        "Business Updates"
+      ]
+    },
+    {
+      "id": "9288",
+      "link": "/blog/prepare-now-succeed-later-top-tips-for-black-friday-wins/",
+      "date": "June 25, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Prepare now, Succeed Later: Top Tips for Black Friday Wins",
+      "intro": "Our experts share their top tips for increasing conversions and providing a seamless experience for your users this Black Friday.",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation",
+        "eCommerce"
+      ]
+    },
+    {
+      "id": "9287",
+      "link": "/blog/cracking-the-code-to-digital-media-subscription-success/",
+      "date": "June 10, 2024",
+      "author": "Kit Heighway",
+      "title": "Cracking The Code To Digital Media Subscription Success",
+      "intro": "In the dynamic world of digital media, mastering the art of subscription journeys is a challenge. ",
+      "categories": [
+        "Guest Post",
+        "AB Test",
+        "Social Proof",
+        "Subscriptions"
+      ]
+    },
+    {
+      "id": "9288",
+      "link": "/blog/great-customer-experience-analytics-seo-cro-repetition/",
+      "date": "June 9, 2024",
+      "author": "Ben Charlesworth",
+      "title": "Great Customer Experience = (Analytics + SEO + CRO) x Repetition ",
+      "intro": "The key to great customer experience is a combination of analytics, SEO and CRO which is then repeated. We explore how they work together. ",
+      "categories": [
+        "Best Practices",
+        "Improving Conversion",
+        "User Behaviour"
+      ]
+    },
+    {
+      "id": "9286",
+      "link": "/blog/clear-cut-strategies-for-GA4-and-AB-testing-success/",
+      "date": "May 14, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Clear-Cut Strategies for GA4 and A/B Testing Success",
+      "intro": "A recent webinar explored how you can get the most out of GA4 and the ways you canuse it for AB testing success.",
+      "categories": [
+        "Webinar Recap",
+        "Analytics",
+        "Best Practices"
+      ]
+    },
+    {
+      "id": "9285",
+      "link": "/blog/product-release-update-q1-2024/",
+      "date": "April 10, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Product release update – Q1 2024",
+      "intro": "In this blog, we summarise and explain our latest product releases and the different things we have been working on to improve our product.",
+      "categories": [
+        "Product Updates",
+        "Multi-Armed Bandits",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "id": "9284",
+      "link": "/blog/ai-in-action-recap-on-how-to-use-ai-in-the-real-world/",
+      "date": "April 5, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "AI in action: A recap on how to use AI in the real-world",
+      "intro": "A recent webinar explored the ways that AI can be used in the real world for experimentation and growth, which we recap in this blog.",
+      "categories": [
+        "Webinar Recap",
+        "AI and Experimentation",
+        " Digital Marketing"
+      ]
+    },
+    {
+      "id": "9283",
+      "link": "/blog/what-impact-does-experimentation-have-on-your-seo-ranking/",
+      "date": "February 18, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "What impact does experimentation have on your SEO ranking?",
+      "intro": "We answer the question of whether experimentation works alongside SEO and whether it will affect your Google rankings.",
+      "categories": [
+        "SEO",
+        "FAQs",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9282",
+      "link": "/blog/unleashing-the-algorithmic-advantage-with-multi-armed-bandits/",
+      "date": "January 31, 2024",
+      "author": "Reema Singh",
+      "title": "Unleashing the Algorithmic Advantage with Multi-Armed Bandits",
+      "intro": "Multi-Armed Bandits are an incredibly effective way to get the most amount of value out of your experiments at optimal times.",
+      "categories": [
+        "Improving conversion",
+        "Multi-Armed Bandits"
+      ]
+    },
+    {
+      "id": "9281",
+      "link": "/blog/do-you-know-the-real-cost-of-customer-acquisition/",
+      "date": "January 19, 2024",
+      "author": "Yasmin Scott-Gray",
+      "title": "Do you know the real cost of customer acquisition?",
+      "intro": "We delve into the real cost of customer acquisition and at what points you should spend more on customer retention.",
+      "categories": [
+        "Podcast Recap",
+        "Digital Marketing",
+        "User Behaviour"
+      ]
+    },
+    {
+      "id": "9280",
+      "link": "/blog/iteration-101/",
+      "date": "December 21, 2023",
+      "author": "Frazer Mawson",
+      "title": "Iteration 101 - Why is this important in experimentation? ",
+      "intro": "Iteration is an important part of your experimentation strategy as it ensures you are constantly learning from the results.",
+      "categories": [
+        "Guest Post",
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "9279",
+      "link": "/blog/9-to-thrive-cultivating-the-best-culture-for-your-employees/",
+      "date": "December 5, 2023",
+      "author": "Yasmin Scott-Gray",
+      "title": "9-to-Thrive: Cultivating the best culture for your employees",
+      "intro": "A company is only as successful as its employees, so how can you create a culture that allows them to thrive personally and professionally?",
+      "categories": [
+        "Meet The Team",
+        "Featured Post"
+      ]
+    },
+    {
+      "id": "9278",
+      "link": "/blog/first-party-data-frontline-of-personalisation/",
+      "date": "November 23, 2023",
+      "author": "Matt Abbott",
+      "title": "First Party Data - The Frontline of Personalisation",
+      "intro": "Personalisation is an important part of your digital strategy as businesses fight to attract customers and keep their attention.",
+      "categories": [
+        "Guest Post",
+        "Personalisation",
+        "User Engagement"
+      ]
+    },
+    {
+      "id": "9277",
+      "link": "/blog/How-do-you-come-up-with-the-most-effective-test-ideas/",
+      "date": "November 07, 2023",
+      "author": "Sandeep Shah",
+      "title": "How do you come up with the most effective test ideas?",
+      "intro": "The ability to prove problems with data is always going to make your decisions more informed. So how does this translate to coming up with test ideas?",
+      "categories": [
+        "Test Ideas",
+        "Improving Conversion",
+        "User Behaviour"
+      ]
+    },
+    {
+      "id": "9276",
+      "link": "/blog/improving-a-successful-company-customer-success-perspective/",
+      "date": "October 23, 2023",
+      "author": "James Harber",
+      "title": "Improving a successful company – A Customer Success perspective",
+      "intro": "I explore how you can improve things as a customer success manager within a successful business where customers success was already successful?",
+      "categories": [
+        "Optimisation",
+        "Best practices"
+      ]
+    },
+    {
+      "id": "9275",
+      "link": "/blog/How-QA-Can-Prepare-Ecommerce-for-Black-Friday-and-Cyber-Monday/",
+      "date": "October 12, 2023",
+      "author": "Reema Singh",
+      "title": "How Can QA Prepare E-commerce for Black Friday and Cyber Monday?",
+      "intro": "To make the most of Back Friday and Cyber Monday, preparation and optimisation are key, here are my top tips as a QA expert.",
+      "categories": [
+        "Visitor Engagement",
+        "Improving Conversion",
+        "Best practices"
+      ]
+    },
+    {
+      "id": "9274",
+      "link": "/blog/unlocking-the-power-of-personalisation/",
+      "date": "August 16, 2023",
+      "author": "Sandeep Shah",
+      "title": "Unlocking the Power of Personalization: A Unique User Experience",
+      "intro": "When personalisation is done effectively, it can have a big impact on customers returning and your conversion rates, so how is this achieved?",
+      "categories": [
+        "Personalisation",
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "9273",
+      "link": "/blog/driving-better-customer-experiences/",
+      "date": "August 1, 2023",
+      "author": "Oliver Walker",
+      "title": "Building a conversion engine: driving better customer experiences",
+      "intro": "Hookflash Analytics delve into the importance of a positive customer experience, and what disciplines come together to achieve this.",
+      "categories": [
+        "Guest Post",
+        "Improving Conversion",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "9272",
+      "link": "/blog/how-can-little-changes-improve-conversion-rates/",
+      "date": "July 12, 2023",
+      "author": "Yasmin Scott-Gray",
+      "title": "How can little changes have a big impact on conversion rates?",
+      "intro": "There is often the assumption that you must create a completely new user experience to increase conversion, this article explores this.",
+      "categories": [
+        "Optimisation",
+        "Improving Conversion",
+        "Test ideas"
+      ]
+    },
+    {
+      "id": "9271",
+      "link": "/blog/interview-with-the-ceo/",
+      "date": "June 21, 2023",
+      "author": "Matt Smith",
+      "title": "An Interview with the CEO",
+      "intro": "Have you ever wondered what it's like to be at the helm of a rapidly growing business in the fast-paced world of digital marketing?",
+      "categories": [
+        "Featured Post",
+        "Business Updates",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "9270",
+      "link": "/blog/fake-door-tests/",
+      "date": "May 22, 2023",
+      "author": "Sandeep Shah",
+      "title": "Fake Door tests",
+      "intro": "Should you build a feature or not? This blog explores leveraging fake door tests to gauge popularity before investing in development.",
+      "categories": [
+        "Featured Post",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "9269",
+      "link": "/blog/why-wouldnt-we-just-build-it-ourselves/",
+      "date": "April 13, 2023",
+      "author": "Sandeep Shah",
+      "title": "Why wouldn’t we just build it ourselves?",
+      "intro": "Customers who are ready to start experimenting often ask why they wouldn’t just build it themselves, but it’s not always as straightforward as you think.",
+      "categories": [
+        "Test ideas",
+        "Improving Conversion",
+        "User Behaviour"
+      ]
+    },
+    {
+      "id": "9268",
+      "link": "/blog/the-discontinuation-of-google-optimize-what-next/",
+      "date": "March 14, 2023",
+      "author": "REO",
+      "title": "The discontinuation of Google Optimize – What next?",
+      "intro": "Now that Google Optimize have announced their sunsetting, digital experience agency REO share their advice on what customers should do next.",
+      "categories": [
+        "Guest Post",
+        "eCommerce",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "9267",
+      "link": "/blog/the-power-of-data-led-ecommerce-design/",
+      "date": "March 2, 2023",
+      "author": "Swanky",
+      "title": "The power of data-led ecommerce design",
+      "intro": "Data-led eCommerce is key for businesses to see a return on investment, a great conversion rate and an even better retention rate.",
+      "categories": [
+        "Guest Post",
+        "eCommerce",
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "9015",
+      "link": "/blog/why-webtrends-optimize/",
+      "date": "February 7, 2023",
+      "author": "Ben Charlesworth",
+      "title": "Why Webtrends Optimize",
+      "intro": "Our E-Commerce Director Ben Charlesworth on why you should select Webtrends Optimize as your CRO solution - the technology, conversion & the customer.",
+      "categories": [
+        "Featured Post",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "9266",
+      "link": "/blog/not-just-another-google-optimize-post/",
+      "date": "January 25, 2023",
+      "author": "Matt Smith",
+      "title": "Not just another Google Optimize post",
+      "intro": "Our CEO Matt Smith gives this thoughts on the recent announcement that Google Optimize is to be sunset, along with some valuable advice.",
+      "categories": [
+        "Featured Post",
+        "Industry Comment",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9265",
+      "link": "/blog/our-key-takeaways-from-the-experimentation-elite-conference/",
+      "date": "December 20, 2022",
+      "author": "Yasmin Scott-Gray",
+      "title": "Our key takeaways from the Experimentation Elite conference",
+      "intro": "Experimentation Elite is one of the biggest events that bring together CRO and experimentation marketers.",
+      "categories": [
+        "Business Updates",
+        "Improving Conversion",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "9264",
+      "link": "/blog/employer-awareness-about-crohns-disease-and-ulcerative-colitis/",
+      "date": "December 5, 2022",
+      "author": "Yasmin Scott-Gray",
+      "title": "Employer awareness about Crohn’s Disease and Ulcerative Colitis",
+      "intro": "Crohn’s & Colitis has debilitating side effects that can make normal life increasingly difficult, particularly with mainly invisible symptoms.",
+      "categories": [
+        "Featured Post",
+        "Meet the Team"
+      ]
+    },
+    {
+      "id": "9263",
+      "link": "/blog/how-to-engage-return-visitors-on-your-website-to-drive-conversion/",
+      "date": "November 21, 2022",
+      "author": "Alla Bennett",
+      "title": "How to engage return visitors on your website to drive conversion",
+      "intro": "Returning visitors are the ones most likely to convert, so identifying the best-performing segment of your site is key!",
+      "categories": [
+        "Optimisation",
+        "User Behaviour",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "9262",
+      "link": "/blog/how-to-use-website-pop-ups-effectively/",
+      "date": "November 11, 2022",
+      "author": "Reema Singh",
+      "title": "How to use Website Pop-ups effectively",
+      "intro": "If done correctly, website popups can have a substantial impact on converting visitors. Our five effective examples will help your visitors become customers.",
+      "categories": [
+        "AB Test",
+        "Visitor Engagement",
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "9261",
+      "link": "/blog/the-three-questions-you-need-to-ask-of-every-ab-test/",
+      "date": "October 26, 2022",
+      "author": "Alla Bennett",
+      "title": "The 3 key questions you need to ask of every AB test",
+      "intro": "When looking at whether an AB test has won, not only should you analyse where it has won, but you also need to consider why?",
+      "categories": [
+        "AB Test",
+        "Discovery",
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "9260",
+      "link": "/blog/how-many-tools-do-you-use-to-analyse-your-test-data/",
+      "date": "October 14, 2022",
+      "author": "Raquel Oliveira",
+      "title": "How many tools do you use to analyse your test data?",
+      "intro": "Analysing data often requires multiple tools which can be time consuming and over-complicated, so what if you only needed one?",
+      "categories": [
+        "Discovery",
+        "Analytics",
+        "Best Practices"
+      ]
+    },
+    {
+      "id": "9259",
+      "link": "/blog/how-to-effectively-run-experiments-with-a-low-volume-of-data/",
+      "date": "October 6, 2022",
+      "author": "REO",
+      "title": "How to effectively run experiments with a low volume of data",
+      "intro": "The vast majority of CRO practices are reliant on data to produce results, which can still be effective, even if your sample size is smaller than you hoped.",
+      "categories": [
+        "Guest Post",
+        "Improving Conversion",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "9258",
+      "link": "/blog/behavioural-filtering-using-metrics-triggered/",
+      "date": "August 11, 2022",
+      "author": "Sandeep Shah",
+      "title": "Powerful Behavioural Filtering",
+      "intro": "Sandeep outlines how when building behavioural filtering into our Discovery reporting engine we uncovered something super powerful.",
+      "categories": [
+        "Discovery",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "9257",
+      "link": "/blog/run-50-percent-more-tests-in-a-given-month-using-abn-testing/",
+      "date": "July 28, 2022",
+      "author": "Sandeep Shah",
+      "title": "Run 50% more tests with ABn testing",
+      "intro": "Sandeep explains how you can accelerate your testing programme and run 50% more tests in a given month using ABn testing.",
+      "categories": [
+        "AB Test",
+        "Test Ideas",
+        "Best Practices"
+      ]
+    },
+    {
+      "id": "9256",
+      "link": "/blog/to-include-or-not-to-include-visitors-in-your-test-reports/",
+      "date": "May 26, 2022",
+      "author": "Sandeep Shah",
+      "title": "To Include or not to Include",
+      "intro": "Sandeep explores how you can use post-test exclusion of certain users and traffic to reveal some really important insights in your data.",
+      "categories": [
+        "Discovery",
+        "AB Test",
+        "Best Practices",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "9255",
+      "link": "/blog/using-browsers-and-devices-to-better-personalise-experiences/",
+      "date": "March 24, 2022",
+      "author": "Sandeep Shah",
+      "title": "Get more out of your data",
+      "intro": "Sandeep Shah explores how you can get more out of your data - using browsers & devices to better personalise experiences.",
+      "categories": [
+        "Personalisation",
+        "Optimisation",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "9254",
+      "link": "/blog/12-hypotheses-to-ab-test-on-your-online-form/",
+      "date": "February 15, 2022",
+      "author": "Alun Lucas",
+      "title": "12 Hypotheses to AB test",
+      "intro": "Webtrends Optimize welcomes Alun Lucas from Zuko Analytics to outline 12 key hypotheses you can use to AB test your Online Forms.",
+      "categories": [
+        "Guest Post",
+        "Featured Post",
+        "AB Test",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "9253",
+      "link": "/blog/customer-experience-optimisation-in-the-travel-industry/",
+      "date": "January 27, 2022",
+      "author": "Emma Charlesworth",
+      "title": "Customer experience optimisation in the travel industry",
+      "intro": "Guest blogger Emma Charlesworth reviews key customer experience optimisation techniques the travel industry (and others) can use to build trust with their users.",
+      "categories": [
+        "Guest Post",
+        "Optimisation",
+        "Travel"
+      ]
+    },
+    {
+      "id": "9252",
+      "link": "/blog/monthly-active-users-or-sessions/",
+      "date": "January 19, 2022",
+      "author": "Sandeep Shah",
+      "title": "Monthly Active Users or Sessions?",
+      "intro": "Sandeep Shah reviews the different billing methods of CRO & Testing platforms and why there is always a clear winner - for the customer.",
+      "categories": [
+        "Industry Comment",
+        "Best Practices",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "9251",
+      "link": "/blog/a-brief-history-of-time-at-webtrends-optimize/",
+      "date": "November 24, 2021",
+      "author": "Richard Eames",
+      "title": "A brief history of time",
+      "intro": "Richard Eames from our Product Team reviews the huge journey our CRO solution and technology has been on during his time at Webtrends Optimize.",
+      "categories": [
+        "Business Updates",
+        "Optimisation",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "9250",
+      "link": "/blog/the-impossibility-of-understanding-customer-behaviour/",
+      "date": "November 17, 2021",
+      "author": "Jonny Longden",
+      "title": "The impossibility of understanding customer behaviour",
+      "intro": "Webtrends Optimize welcomes Jonny Longden from Journey Further to explain why our opinions, ideas & data insights so often fail to make the impact we want.",
+      "categories": [
+        "Guest Post",
+        "Featured Post",
+        "User Behaviour"
+      ]
+    },
+    {
+      "id": "9249",
+      "link": "/blog/dealing-with-saas-sprawl-in-cro/",
+      "date": "November 10, 2021",
+      "author": "Sandeep Shah",
+      "title": "Dealing with SaaS sprawl in CRO",
+      "intro": "Sandeep Shah analyses the benefits and negatives of SaaS sprawl and evaluates how we're dealing with this at Webtrends Optimize.",
+      "categories": [
+        "Industry Comment",
+        "Best Practices",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9248",
+      "link": "/blog/5-reasons-why-your-visitors-may-not-be-converting/",
+      "date": "October 28, 2021",
+      "author": "Emma Charlesworth",
+      "title": "5 reasons why visitors may not convert",
+      "intro": "Emma Charlesworth reviews 5 reasons why your visitors may not be buying on your site - and what you can look at to improve conversion.",
+      "categories": [
+        "eCommerce",
+        "Guest Post",
+        "Improving Conversion",
+        "Retail"
+      ]
+    },
+    {
+      "id": "9247",
+      "link": "/blog/addressing-the-challenges-facing-retail-in-q4-2021/",
+      "date": "October 18, 2021",
+      "author": "John Fleming",
+      "title": "Challenges facing Retail in Q4 2021",
+      "intro": "John Fleming addresses 5 key problems Retail is facing as we approach Q4 of 2021 and looks at how you can build trust through your user experience (UX)",
+      "categories": [
+        "eCommerce",
+        "Visitor Engagement",
+        "Retail"
+      ]
+    },
+    {
+      "id": "9246",
+      "link": "/blog/5-reasons-why-webtrends-optimize-are-the-best-fit-for-any-industry/",
+      "date": "September 28, 2021",
+      "author": "Reema Singh",
+      "title": "5 reasons why webtrends optimize are the best fit for any industry",
+      "intro": "Reema Singh discusses 5 key things which she believes make Webtrends Optimize the best fit for your business, whatever your industry and objectives",
+      "categories": [
+        "Optimisation",
+        "Personalisation",
+        "Featured Post"
+      ]
+    },
+    {
+      "id": "9245",
+      "link": "/blog/8-effective-ways-to-use-a-hello-bar/",
+      "date": "April 26, 2021",
+      "author": "Reema Singh",
+      "title": "8 effective ways to use a hello bar",
+      "intro": "Easy to build and hard to miss. If you are new to CRO (conversion rate optimisation) and you’re not sure where to begin, a hello bar might just be one of the best options. They’re easy to build, high in visibility, fully customisable, unobtrusive to your user experience and very effective in generating leads. Firstly… What is a hello bar? A hello Bar,...",
+      "categories": [
+        "Optimisation",
+        "Personalisation",
+        "Test Ideas",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "9241",
+      "link": "/blog/the-light-at-the-end-of-the-tunnel/",
+      "date": "March 24, 2021",
+      "author": "Matt Smith",
+      "title": "The light at the end of the tunnel",
+      "intro": "As, we are at last, seeing light at the end of the pandemic tunnel as the vaccine program begins to deliver hope of normality, I thought that it’s a good time to reflect on what has been the most unusual period to be running a business. How it started... Back in early March last year, no one could have predicted the impact...",
+      "categories": [
+        "Business Updates"
+      ]
+    },
+    {
+      "id": "9125",
+      "link": "/blog/unpacking-your-supermarket-shop/",
+      "date": "January 6, 2021",
+      "author": "Sandeep Shah",
+      "title": "It’s not just Amazon and Google &#8211; Unpacking your supermarket shop",
+      "intro": "A look into how little power branding and trademarks hold in online marketplaces.Amazon has been the sore-spot of journalism for quite some time now. Amongst various things people could take issue with, we find one key business practice that I'd like to expand on in this blog - the sale of Amazon Essentials products.For most categories of product, Amazon considers...",
+      "categories": [
+        "eCommerce"
+      ]
+    },
+    {
+      "id": "9095",
+      "link": "/blog/we-should-all-be-using-the-same-cdn/",
+      "date": "December 10, 2020",
+      "author": "Sandeep Shah",
+      "title": "We should all be using the same CDN",
+      "intro": "An argument for why the web should pool its resources, and share the same CDN. Site speed is rapidly becoming understood as one of the most important factors to success online. And not just because Google penalises slow websites (although that is what seems to drive most companies), but because it genuinely makes a difference to onsite experience. Despite 5g and...",
+      "categories": [
+        "Best Practices",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "9086",
+      "link": "/blog/using-jquery-isnt-hurting-your-ab-tests/",
+      "date": "December 9, 2020",
+      "author": "Sandeep Shah",
+      "title": "Using jQuery isn’t hurting your AB Tests",
+      "intro": "In fact, it should be helping them.. I appreciate this is what A LOT of you have been thinking for quite some time, and so have insisted that any Experiments built are written using Vanilla (plain) JS. Unfortunately (or fortunately, actually), that's not correct. Most websites still use jQuery - over 80% of the top 1 million Alexa-ranked websites. This is who...",
+      "categories": [
+        "AB Test"
+      ]
+    },
+    {
+      "id": "9074",
+      "link": "/blog/cro-is-more-than-just-ab-testing/",
+      "date": "December 2, 2020",
+      "author": "Ben Charlesworth",
+      "title": "CRO is more than just AB Testing",
+      "intro": "Webinar De-brief: Key Takeaways - You may have been one of the many who attended the first Webtrends Optimize webinar last week (26 November 2020), but don’t worry if you missed it as you can watch it in full on YouTube – and/or download the slides. We’re all busy people though and you may not have the chance to review the full thing...",
+      "categories": [
+        "Featured Post"
+      ]
+    },
+    {
+      "id": "8848",
+      "link": "/blog/optimise-your-customer-experience/",
+      "date": "October 1, 2020",
+      "author": "Reema Singh",
+      "title": "15 ways to optimise your customer experience for out of stock products",
+      "intro": "Maintenance of stock has always been a challenge for retailers. But technological advancements in logistics and demand modelling means that the potential for management of availability has never been better. Digitalisation of media such as music, books and movies have removed the consideration for some categories completely. However, as a result, visitor expectations regarding availability and delivery have never been...",
+      "categories": [
+        "eCommerce",
+        "Optimisation",
+        "Retail"
+      ]
+    },
+    {
+      "id": "8896",
+      "link": "/blog/decision-bias/",
+      "date": "September 24, 2020",
+      "author": "Chris Kennedy",
+      "title": "“That is highly illogical Captain”…what Star Trek can teach us about understanding decision bias",
+      "intro": "I am not a Trekkie… sporting a pair of pointed ears at Comic Con, never quite held it for me. But I do love the original 60’s series. That tension between William Shatner, as the emotional, instinctive and very human Kirk clashing with the resolute, Leonard Nimoy as the “Vulcan” Spock has been a surprisingly reliable reference, in understanding and...",
+      "categories": [
+        "Best Practices",
+        "Improving Conversion",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "8901",
+      "link": "/blog/could-gift-cards-save-your-local-high-street-shops/",
+      "date": "September 14, 2020",
+      "author": "Sandeep Shah",
+      "title": "Could gift cards save your local high street shops?",
+      "intro": "Times are tough - we all understand this. And one of the biggest challenges for any company is cash flow. When things are going well, bills are easy to pay. When money isn't coming in, it's tough. Business loans are often used in scenarios where companies have a short-term need. Coronavirus Business Interruption Loan Scheme (CBILS) was a great example of...",
+      "categories": [
+        "Industry Comment",
+        "Retail"
+      ]
+    },
+    {
+      "id": "8906",
+      "link": "/blog/episerver-acquires-optimizely/",
+      "date": "September 10, 2020",
+      "author": "Matt Smith",
+      "title": "Episerver acquires Optimizely",
+      "intro": "You will no doubt have heard that Optimizely have been acquired by Episerver. You may think that this is a good idea, or you may believe that where there is change, especially in the IT industry, there are rarely many customer benefits of being acquired. I would like to share a few thoughts on how we at Webtrends Optimize view this acquisition...",
+      "categories": [
+        "Business Updates",
+        "Featured Post",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "8789",
+      "link": "/blog/when-to-stop-the-test/",
+      "date": "August 13, 2020",
+      "author": "Alla Bennett",
+      "title": "When to stop the test",
+      "intro": "How do I know when to stop my test? How long should my test run for? What factors should I be considering when I am looking to stop my test?… These are questions we often hear from our clients. Sometimes in conversion rate optimisation the answer is straightforward...”",
+      "categories": [
+        "Analytics",
+        "Best Practices",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "8676",
+      "link": "/blog/5-multivariate-testing-examples/",
+      "date": "July 23, 2020",
+      "author": "Alla Bennett",
+      "title": "5 Multivariate Testing Examples",
+      "intro": "Multivariate testing is a great tool to use as part of your conversion rate optimisation strategy. But what are the scenarios when you should be considering using MVT? Stakeholders can be understandably apprehensive about using MVT tests. MVT tests are sometimes perceived as more complex projects that need a lot of traffic, time and resources...",
+      "categories": [
+        "MVT"
+      ]
+    },
+    {
+      "id": "8615",
+      "link": "/blog/brands-covid-19-responses/",
+      "date": "July 17, 2020",
+      "author": "Katie Bisgrove",
+      "title": "Brands Covid-19 responses reveal the kinder side of Businesses",
+      "intro": "Getting to know you... Brands have been showing their softer and fun sides over the last few years. Probably due to the world getting smaller with global reach becoming easier. The graph below from eMarketer Statista, demonstrates the continuous growing trend...",
+      "categories": [
+        "Digital Marketing"
+      ]
+    },
+    {
+      "id": "8443",
+      "link": "/blog/ab-testing-whats-holding-you-back/",
+      "date": "July 9, 2020",
+      "author": "Katie Bisgrove",
+      "title": "AB Testing: What’s holding you back?",
+      "intro": "Do any of these sound like you? I want to start AB testing but I’m getting push back from internal stakeholders. I struggle with what to test first, and how I will manage and understand the data I collect...",
+      "categories": [
+        "AB Test",
+        "Conversations with the Community",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "8240",
+      "link": "/blog/qaing-and-testing-experimentation-projects/",
+      "date": "June 23, 2020",
+      "author": "Reema Singh",
+      "title": "What to consider when QA’ing experimentation projects",
+      "intro": "To tell somebody that he/she is wrong is called criticism. To do so professionally is called QA testing. Quality, and Testing, play a very important part in Optimisation, just like any other phase of the product development cycle...",
+      "categories": [
+        "Best Practices"
+      ]
+    },
+    {
+      "id": "8229",
+      "link": "/blog/covid-19-and-customer-behaviour/",
+      "date": "June 22, 2020",
+      "author": "Reema Singh",
+      "title": "Impact of Covid-19 and customer behaviour",
+      "intro": "Customers are critical for any business, the earlier you understand your customers the more effectively you can react to their needs in the future. Abraham Lincoln famously said, “The best way to predict the future is to create it...”",
+      "categories": [
+        "eCommerce",
+        "Personalisation",
+        "Retail"
+      ]
+    },
+    {
+      "id": "7932",
+      "link": "/blog/hacking-amazon-assistant/",
+      "date": "June 16, 2020",
+      "author": "Sandeep Shah",
+      "title": "Hacking Amazon Assistant – Lessons Learnt",
+      "intro": "If you’re not sure what Amazon Assistant is, have a read of this article first: Amazon might be hurting your business more than you realise...”",
+      "categories": [
+        "eCommerce",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "7952",
+      "link": "/blog/travel-industry-help-your-customers-research-using-wishlists/",
+      "date": "June 3, 2020",
+      "author": "Katie Bisgrove",
+      "title": "Travel Industry, help your customers research using wishlists",
+      "intro": "Can't travel but can only wish for time away. Restrictions are starting to lift, and are getting clearer week by week, but there is still so much uncertainty about when and where we can travel. With school holidays approaching and travel restrictions still in place, customers can only wish and research on their options. Many people will now start to...",
+      "categories": [
+        "Optimisation",
+        "Personalisation",
+        "Travel",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "7905",
+      "link": "/blog/baselines-the-very-essence-of-any-ab-test/",
+      "date": "May 22, 2020",
+      "author": "Raquel Oliveira",
+      "title": "Baselines – the foundation of any AB test",
+      "intro": "Ok I admit it, I think baseline tests are dull! For any of you who are unsure of what a Baseline test is, let me quickly explain. A baseline test is simply a tracking project, so no design changes are made to your website for customers to see which means you only have a control group. As a process it is...",
+      "categories": [
+        "Analytics",
+        "Landing Pages CRO"
+      ]
+    },
+    {
+      "id": "7724",
+      "link": "/blog/platform-release-program-helps-drive-our-optimisation-business/",
+      "date": "May 14, 2020",
+      "author": "Shaks Ganti",
+      "title": "How our Platform Release Management Program helps drive our Optimisation Business!",
+      "intro": "Here at Webtrends Optimize our Platform Release Program helps us strive to have an optimisation platform that is always forward thinking and ambitious. Even our clients help drive our roadmap of features and ideas, which they themselves would benefit from using. We also have a very fluid communication flow within the company and are not a top down organisation. Which means...",
+      "categories": [
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "7610",
+      "link": "/blog/how-to-make-your-optimisation-program-more-efficient-part-4-learn-new-tools-and-skills/",
+      "date": "May 7, 2020",
+      "author": "Katie Bisgrove",
+      "title": "How to make your optimisation program more efficient (Part 4) – Learn new tools and skills",
+      "intro": "Do you sometimes think there may be a quicker or easier way to complete your task, but you don’t have time to look or learn? If so, then hopefully this blog will help you to brush up on your skills the easy way! At this time in lockdown, you probably fit into one of these groups: Made ambitious plans to...",
+      "categories": [
+        "Digital Marketing",
+        "Meet the Team"
+      ]
+    },
+    {
+      "id": "7445",
+      "link": "/blog/my-data-vs-your-data-why-do-they-differ/",
+      "date": "April 28, 2020",
+      "author": "Raquel Oliveira",
+      "title": "My data Vs your data … why do they differ?",
+      "intro": "Data is known as an unquestionable fact!  Everyone uses reporting to understand what is happening on their site to then understand why it is happening and what actions to take. However, the way data is presented can differ massively depending on the criteria of each reporting system. For example, wonder why your data in Google Analytics differs from what...",
+      "categories": [
+        "Analytics"
+      ]
+    },
+    {
+      "id": "7326",
+      "link": "/blog/how-to-make-your-optimisation-program-more-efficient-part-3-product-recommendations/",
+      "date": "April 15, 2020",
+      "author": "Katie Bisgrove",
+      "title": "How to make your Optimisation Program more efficient (Part 3) Product Recommendations",
+      "intro": "This week we will be discussing how you can get started with Product Recommendations. A lot of websites already use product recommendations, having seen what Amazon and other large retailers are doing, but have never really thought about what else can be done with them and the power they can have. This blog is for anyone who would like to know a little bit about...",
+      "categories": [
+        "Personalisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "7294",
+      "link": "/blog/optimising-how-we-work-during-the-covid-19-lockdown/",
+      "date": "April 9, 2020",
+      "author": "Reema Singh",
+      "title": "Optimising how we work during the covid-19 lockdown",
+      "intro": "Team Webtrends Optimize. During this pandemic, we, like many other companies and families are being asked to work from home, so we thought we would provide you with an insight into how we have been managing to work as a team and how we've been staying strong. We are fortunate that we already have a working from home policy in place, whereby...",
+      "categories": [
+        "Business Updates",
+        "Meet the Team"
+      ]
+    },
+    {
+      "id": "7282",
+      "link": "/blog/how-to-make-your-optimisation-program-more-efficient-part-2/",
+      "date": "April 1, 2020",
+      "author": "Katie Bisgrove",
+      "title": "How to make your Optimisation Program more efficient (Part 2)",
+      "intro": "This week we will be discussing how you can get started with Personalisation Testing. This is part of a series of blog posts which started with Conversion Packages. A lot of websites already use personalisation, but it doesn’t mean everyone knows how it can be used or even built. This post is for anyone who would like to know a little bit about how...",
+      "categories": [
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "7259",
+      "link": "/blog/how-to-make-your-optimisation-program-more-efficient-part-1/",
+      "date": "March 26, 2020",
+      "author": "Katie Bisgrove",
+      "title": "How to make your Optimisation Program more efficient (Part 1)",
+      "intro": "This week we will be discussing the concept of a Conversion package. Some Optimisation platforms only allow for a small number of conversions per test. There are many reasons for this: Cost (GBP and Resources)Dev Implementation time for adding trackingQA time to make sure the tracking is workingCould lead to confusion of the main KPI At Webtrends Optimize if you have a Managed Service...",
+      "categories": [
+        "AB Test",
+        "Analytics"
+      ]
+    },
+    {
+      "id": "7243",
+      "link": "/blog/targeted-messaging-how-to-use-them-at-this-moment-in-time/",
+      "date": "March 24, 2020",
+      "author": "Katie Bisgrove",
+      "title": "Targeted Messaging: How to use them at this moment in time",
+      "intro": "Due to business being anything but normal at the moment, we will be releasing a number of informative blogs over the coming weeks to either provide you with some ideas for your site, or guidance to get you planning and ready to go for when we get back to ‘business as usual’. Timely and targeted messaging is known to be extremely user friendly and acts...",
+      "categories": [
+        "eCommerce",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "7148",
+      "link": "/blog/optimising-in-travel/",
+      "date": "March 13, 2020",
+      "author": "Alla Bennett",
+      "title": "Optimisation in times of a force majeure event",
+      "intro": "There are a lot of unknowns when we, the general public and businesses alike, face force majeure events. Be it a virus (as is happening right now with the COVID-19 outbreak), earthquakes, tsunamis or volcanic eruptions (remember Eyjafjallajökull?) - even heightened political tensions/instability in a specific region. The travel industry is often at the frontline when such events happen and has to...",
+      "categories": [
+        "Optimisation",
+        "Travel",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "7048",
+      "link": "/blog/conversion-rate-improvement/",
+      "date": "February 14, 2020",
+      "author": "Sandeep Shah",
+      "title": "Honey – I’m trying to fix the Conversion Rate",
+      "intro": "Following on from our blog post last week 'Honey - i shrunk the conversion rate' we're back with suggestions of how you can fix your conversion rate! What should I do to protect my website against Honey? Much like Amazon Assistant, there are a few things we can do about this. For anything that is a change to the website (beyond just...",
+      "categories": [
+        "AB Test",
+        "Retail",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "7026",
+      "link": "/blog/decline-in-cr-aov-and-usability/",
+      "date": "February 7, 2020",
+      "author": "Sandeep Shah",
+      "title": "Honey – I shrunk the conversion rate",
+      "intro": "In recent months, we’ve written about and spoken with numerous businesses about the impact that Amazon Assistant has on businesses. For those who aren’t aware of it - Amazon built a browser extension, downloaded by hundreds of thousands of users. It waits for your users to browse a product that Amazon sells, and then presents a bar across the top of...",
+      "categories": [
+        "eCommerce",
+        "Improving Conversion",
+        "Retail",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "6990",
+      "link": "/blog/how-to-calculate-aov-correctly/",
+      "date": "January 31, 2020",
+      "author": "Chris Kennedy",
+      "title": "Increasing AOV is not always reflected in your CRO results",
+      "intro": "My last blog Post “Whats the Optimal?” highlighted the importance of selecting the right metrics and how ultimately revenue per visitor or customer is ultimately what eCommerce professionals wish to see improved. One component of this is AOV (Average Order Value). By definition this is the aggregate of sales revenue divided by the number of orders. Improving AOV is a...",
+      "categories": [
+        "Analytics",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "6742",
+      "link": "/blog/time-flies-18-months-in/",
+      "date": "December 31, 2019",
+      "author": "Matt Smith",
+      "title": "Time Flies… 18 Months In",
+      "intro": "As the year draws to a close, I’ve been reflecting on the past year or so. 18 months ago I put together a management team of existing senior managers and new board members to form Accelerate Group Limited and on the 1st of August 2018 we acquired Webtrends Optimize from Webtrends Inc.What’s happened since then? Well a hell of a...",
+      "categories": [
+        "Business Updates",
+        "Featured Post"
+      ]
+    },
+    {
+      "id": "6649",
+      "link": "/blog/the-hourly-model-doesnt-work/",
+      "date": "December 12, 2019",
+      "author": "Sandeep Shah",
+      "title": "The Hourly Model Doesn’t Work!",
+      "intro": "The hourly model (or daily rate) is the norm for most companies looking to interact with 3rd party companies. For years, it's seemed logical for most services that you pay for a certain amount of time from a company, and expect certain outcomes in that time. The hourly model is, however, extremely broken.Sentiment:Let's start with sentiment. An hourly model suggests...",
+      "categories": [
+        "Featured Post",
+        "Improving Conversion",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "6422",
+      "link": "/blog/black-friday-cyber-monday-not-everyone-is-doing-the-same/",
+      "date": "November 21, 2019",
+      "author": "Katie Bisgrove",
+      "title": "Black Friday / Cyber Monday – not everyone is doing the same",
+      "intro": "There are a few myths about how Black Friday originated in the US and why it started, but for the UK Amazon actually introduced us to this concept in 2010. From then on Black Friday and Cyber Monday have been gathering momentum.Everyone loves a bargain, and it seems an easy marketing stunt but just because your competitors are slashing their...",
+      "categories": [
+        "Analytics",
+        "eCommerce"
+      ]
+    },
+    {
+      "id": "6407",
+      "link": "/blog/is-our-free-cro-free-trial-really-worth-it/",
+      "date": "November 19, 2019",
+      "author": "John Fleming",
+      "title": "Is our CRO Free Trial really worth it?",
+      "intro": "We understand that something for free is often perceived as having low or even no value...Here at Webtrends Optimize we want to welcome anyone who is passionate about CRO and achieving your KPIs. By offering a Free Trial you can see how much our platform has to offer and you get the chance to work with the platform (no reduced...",
+      "categories": [
+        "Improving Conversion",
+        "Meet the Team",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "6241",
+      "link": "/blog/travel-what-helps-the-buying-process/",
+      "date": "November 7, 2019",
+      "author": "Katie Bisgrove",
+      "title": "Travel – What helps the buying process?",
+      "intro": "We're lucky enough to have worked with numerous clients within the travel industry over the years, and due to the presence of the World Travel Market Event this week we thought it would be worthwhile and helpful to highlight a couple of our test findings.Test Idea 1: Showing returning customers what they last viewed or searched for.This has proven to...",
+      "categories": [
+        "Improving Conversion",
+        "Industry Comment",
+        "Optimisation",
+        "Personalisation",
+        "Test Ideas",
+        "Travel"
+      ]
+    },
+    {
+      "id": "6211",
+      "link": "/blog/whats-the-difference-between-seo-and-cro/",
+      "date": "November 4, 2019",
+      "author": "John Fleming",
+      "title": "What’s the difference between SEO and CRO?",
+      "intro": "As a CRO vendor, during a sales call, many of our specialists hear the comment “We already have a company providing our Optimisation solution”. However, with further questioning, we often discover that what they are using and talking about is Search Engine Optimisation (SEO) not Conversion Rate Optimisation (CRO). The two are frequently confused. So here is a simple explanation...",
+      "categories": [
+        "AB Test",
+        "Digital Marketing",
+        "Improving Conversion",
+        "Landing Pages CRO",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "5908",
+      "link": "/blog/re-align-your-perception/",
+      "date": "October 3, 2019",
+      "author": "Matt Smith",
+      "title": "Re-align your perception",
+      "intro": "“Many of the truths we cling to depend greatly on our own point of view”  I have been working in the CRO industry for over 5 years now. An industry that’s seen enormous change with so many vendors coming and going (or being swallowed up by the giants). Some are rising and some falling, and some are changing their approach,...",
+      "categories": [
+        "Business Updates",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "5479",
+      "link": "/blog/whats-the-optimal/",
+      "date": "August 21, 2019",
+      "author": "Chris Kennedy",
+      "title": "What’s the Optimal?",
+      "intro": "What’s the Optimal?It’s exam season in the UK at the moment, where this week and last, students here will be receiving their results. So in that vein I decided to set our Optimisation services team a little test of their own a few weeks back…I’ve seen a few clients get muddled between the various components of conversion rates, potentially leading...",
+      "categories": [
+        "AB Test",
+        "Analytics",
+        "Featured Post"
+      ]
+    },
+    {
+      "id": "5334",
+      "link": "/blog/conversations-with-the-community-personalising-personalisation/",
+      "date": "July 30, 2019",
+      "author": "Sandeep Shah",
+      "title": "Conversations with the Community: Personalising Personalisation",
+      "intro": "“Today, I had the kind of conversation I absolutely love.”Personalisation has finally evolved in the last few years. We’re no longer talking about the Starbucks approach to personalisation (putting your name on it), nor are we trying to “personalise” large segments of people (e.g. show all people who’ve come from a campaign a single thing). Instead, today, I had the...",
+      "categories": [
+        "Conversations with the Community",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "5246",
+      "link": "/blog/heat-on-the-tracks/",
+      "date": "July 26, 2019",
+      "author": "John Fleming",
+      "title": "Heat on the tracks",
+      "intro": "Disruption, delays & unavoidable issuesAs I write this during a heatwave in July, I'm already hearing reports that there are train delays on many of the train routes across the UK. It seems that our tracks suffer with excessive heat as much as many passengers do, even without delays due to climate.As many would accept as being good business practice,...",
+      "categories": [
+        "Featured Post",
+        "Travel"
+      ]
+    },
+    {
+      "id": "4757",
+      "link": "/blog/the-curse-of-online-fashion-retail-customer-returns/",
+      "date": "June 27, 2019",
+      "author": "John Fleming",
+      "title": "The Curse of Online Fashion Retail – Customer Returns",
+      "intro": "Why customer returns are a growing problemIt seems there’s not a day goes by that we don't see a headline about the impact of online stores (and business rates) effect on the high street. But whilst online shopping continues to grow at a pace, there is an elephant in the room for online fashion brands… customer returns.I have a wife...",
+      "categories": [
+        "Personalisation",
+        "Retail"
+      ]
+    },
+    {
+      "id": "4647",
+      "link": "/blog/social-proofing-served-5-ways/",
+      "date": "June 19, 2019",
+      "author": "Sandeep Shah",
+      "title": "Social Proofing served 5 ways",
+      "intro": "Social Proofing has proven to be an important persuasive factor in driving sales over the last few years. The key behind this technique is the common understanding that if a lot of people are doing the same thing, it should indicate something useful that’s worth reinforcing.Can I use Social Proofing?No matter what you’re selling - Clothes, Holidays, Insurance - Social...",
+      "categories": [
+        "Improving Conversion",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "4548",
+      "link": "/blog/lifting-conversion-with-geo-targeting/",
+      "date": "June 7, 2019",
+      "author": "Terry Johns",
+      "title": "Lifting conversion rates with Geo-Targeting",
+      "intro": "This is a guest blog on the power of geo-targeting from one of our Aussie partners, KRAKENDATA. The more you work with website visitors and try to understand their needs, preferences and behaviours - the more you realise that they are not all the same. They use different devices, have very different demographics (male v female, young v old etc.) and...",
+      "categories": [
+        "Guest Post",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "4451",
+      "link": "/blog/amazon-might-be-hurting-your-business-more-than-you-realise/",
+      "date": "May 22, 2019",
+      "author": "Sandeep Shah",
+      "title": "Amazon might be hurting your business more than you realise",
+      "intro": "Amazon are big - we all understand this. Their success over the last 5 years has been widely-used to excuse the failure of numerous traditional bricks-and-mortar stores, and their earnings certainly go some way to validating this. However, what you might not realise is that alongside the 300 million users of Amazon’s retail website/s, many users run...",
+      "categories": [
+        "Featured Post",
+        "Retail"
+      ]
+    },
+    {
+      "id": "2383",
+      "link": "/blog/why-cro-is-good-for-small-business/",
+      "date": "July 2, 2018",
+      "author": "John Fleming",
+      "title": "Why CRO is good for small business",
+      "intro": "What is Conversion Rate Optimisation (CRO), and why does it matter?Conversion Rate Optimisation is the process of tailoring your whole online experience to be focused on the visitor, reducing points of friction with the added advantage of helping you to improve your conversion rates.Until recently optimising your web pages to provide a more personalised experience to visitors has seemed to...",
+      "categories": [
+        "Digital Marketing",
+        "eCommerce"
+      ]
+    },
+    {
+      "id": "2390",
+      "link": "/blog/does-gdpr-compliance-mean-more-reliance-on-seo-and-ppc/",
+      "date": "June 22, 2018",
+      "author": "Matt Smith",
+      "title": "Does GDPR compliance mean more reliance on SEO and PPC?",
+      "intro": "It’s been nearly a month since GDPR compliance became law, and although there are no headline hitting breaches yet, it has had far-reaching implications for companies both large and small. This is not going to be another GDPR compliance blog but more about the effects it is having on day-to-day marketing activities.As part of new regulations, companies who deal with...",
+      "categories": [
+        "AB Test",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2387",
+      "link": "/blog/whats-happening-in-uk-retail-and-is-online-shopping-really-to-blame/",
+      "date": "June 13, 2018",
+      "author": "John Fleming",
+      "title": "What’s Happening in UK Retail – and Is Online Shopping Really to Blame?",
+      "intro": "The current turmoil in the UK retail sector is enough to startle any employee or business owner in this industry. As the tumbleweeds roll across forgotten, flagship stores, those involved are having to reconsider the need for a physical presence on the UK’s high streets. With huge progression in online shopping and customer engagement, it’s no wonder that more consumers...",
+      "categories": [
+        "Featured Post",
+        "Retail",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2392",
+      "link": "/blog/why-marketers-should-get-to-grips-with-website-optimisation/",
+      "date": "December 4, 2017",
+      "author": "John Fleming",
+      "title": "Why marketers should get to grips with website optimisation",
+      "intro": "AB testing and website optimisation have been around for many years and it is commonplace amongst large enterprises and many ecommerce focused websites. These organisations have reaped the benefits of providing optimised content and continue to focus heavily on testing each and every element of every page. However, many if not most of these organisations either rely on in-house optimisation...",
+      "categories": [
+        "AB Test",
+        "Digital Marketing",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2396",
+      "link": "/blog/top-tips-and-tools-for-cro-developers/",
+      "date": "November 24, 2017",
+      "author": "Daniella Sternalski-Gobey",
+      "title": "Top Tips and Tools for CRO Developers",
+      "intro": "Let’s face it – what we do as front-end developers for building AB Tests is not normal. We take web pages, and bend them in ways that they’re not supposed to go – reworking layouts, content, validation and form submissions, amongst a whole wealth of other things. As a CRO Developer, I get a wide variety of tests to build,...",
+      "categories": [
+        "AB Test",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2399",
+      "link": "/blog/looking-through-the-eye-of-a-needle/",
+      "date": "November 15, 2017",
+      "author": "Richard Eames",
+      "title": "Looking Through the Eye of a Needle",
+      "intro": "In the age of tablets, mobiles, desktops, laptops, watches – all of which can now render a website, I find it amazing how many people still seem to neglect the varied experiences that each device delivers and design websites according to each device type.Having a single website design across multiple devices is like trying to view a beautiful panorama through...",
+      "categories": [
+        "Optimisation",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2408",
+      "link": "/blog/how-can-marketers-combat-the-effects-of-gdpr/",
+      "date": "October 31, 2017",
+      "author": "Chris Kennedy",
+      "title": "How can marketers combat the effects of GDPR?",
+      "intro": "GDPR (General Data Protection Regulation) is currently on many digital marketers minds.  Although compliance is already law you still have until 25th May 2018 before you need to be fully compliant. It represents the most significant change to online privacy laws since perhaps the “cookie law” in 2011 or the UKs own data protection act of 1998. Its objective is to shore up individual data...",
+      "categories": [
+        "Digital Marketing",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2302",
+      "link": "/blog/craziest-button-test-ever-made/",
+      "date": "October 24, 2017",
+      "author": "Sandeep Shah",
+      "title": "The Craziest Button Test Ever Made",
+      "intro": "The Craziest Button Test Ever Made: An exercise in thinking out of the box.Button tests are for Day 1 AB Testers, right? I mean, we’ve all looked at Blue vs. Red, Buy now vs. Add to bag, and now we’re ready for Personalisation.Things aren’t always as they seem, and in our world things seem to stretch as far as you’re...",
+      "categories": [
+        "MVT",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2411",
+      "link": "/blog/5-things-you-must-test-to-improve-conversion/",
+      "date": "October 18, 2017",
+      "author": "Aline Roux",
+      "title": "5 Things you must Test to improve Conversion",
+      "intro": "Right now you’re in the starting blocks: you have found an optimisation services provider, you have set up an internal optimisation team… There is only one thing left to do: decide what you will be testing first – preferably something impactful that can showcase what AB testing can do for conversion. Let me give you a few pointers based on...",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2405",
+      "link": "/blog/form-optimisation-best-practice/",
+      "date": "October 13, 2017",
+      "author": "Sara Caselli",
+      "title": "Form optimisation best practice",
+      "intro": "Form Optimisation – the basics. Let’s be honest, forms are often a real pain to fill in and that’s why it’s so important to get them right, and minimise any friction when visitors are using them.Designing forms with the user in mind and testing to find out where the pain points are can make a massive difference to the user experience. Forms...",
+      "categories": [
+        "Optimisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2402",
+      "link": "/blog/turn-ppc-clicks-into-conversions/",
+      "date": "October 6, 2017",
+      "author": "Graeme Bean",
+      "title": "Turn PPC clicks into conversions",
+      "intro": "As an Optimisation consultant, I often get asked about getting the most from Pay Per Click (PPC) landing pages. So I thought that I would share my top 10 best practices for creating and optimising landing pages that will maximise the ROI for your PPC campaigns. I will also share how you can take this to the next level to...",
+      "categories": [
+        "AB Test",
+        "Digital Marketing",
+        "Landing Pages CRO"
+      ]
+    },
+    {
+      "id": "2414",
+      "link": "/blog/10-considerations-when-choosing-an-optimisation-partner/",
+      "date": "September 25, 2017",
+      "author": "Phil Williams",
+      "title": "10 Considerations When Choosing an Optimisation Partner",
+      "intro": "Who doesn’t want to improve their conversion rates? In my last post I discussed onsite retargeting but if you haven’t started your conversion rate optimisation (CRO) journey then it’s going to be hard to test the impact of this. The thing is – everyone’s trying to convince you that they specialise in optimisation, CRO, personalisation, AB testing etc. so how can you...",
+      "categories": [
+        "Featured Post",
+        "Industry Comment"
+      ]
+    },
+    {
+      "id": "2420",
+      "link": "/blog/supercharging-personalization-with-rich-data-layers/",
+      "date": "August 21, 2017",
+      "author": "Sandeep Shah",
+      "title": "Supercharging Personalization with Rich Data Layers",
+      "intro": "A recent Blog post described the difficulties that businesses have with achieving a Single Customer View. Whilst this can mean many things, depending on who you talk to, the overarching goal is one of interconnectedness. While getting an entire organisation’s data into one place has it's challenges, a vast amount of data can often be delivered to the front-end of...",
+      "categories": [
+        "Personalisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2417",
+      "link": "/blog/why-should-i-bother-to-optimise-a-non-ecommerce-website/",
+      "date": "August 2, 2017",
+      "author": "Sara Caselli",
+      "title": "Why should I bother to optimise a non-ecommerce website?",
+      "intro": "When conversion is an order, it is easy to determine its value. Whatever the price of the product is, then this is the value of the conversion. You can increase the number of purchases or the value of the product by optimising your website. But how will you be able to calculate the value of conversions which have no monetary value...",
+      "categories": [
+        "Improving Conversion",
+        "Landing Pages CRO",
+        "Optimisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2429",
+      "link": "/blog/why-do-i-need-a-single-view-of-my-customer/",
+      "date": "July 31, 2017",
+      "author": "John Fleming",
+      "title": "Why do I need a single view of my customer?",
+      "intro": "A single customer view has been the dream of many a marketer for years, but there are still very few organisations that are living that dream. This poses two questions Why do we need to have a single view of our customer? Why are there so few organisations that have achieved it?“I am a snowflake”You may have heard this saying,...",
+      "categories": [
+        "Analytics",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "2443",
+      "link": "/blog/building-an-agile-optimisation-team/",
+      "date": "July 26, 2017",
+      "author": "Aline Roux",
+      "title": "Building an Agile Optimisation Team",
+      "intro": "Increasing numbers of businesses are on the path to becoming ‘Agile’, and yet they often find it hard to envision how Agile principles will translate in the day-to-day running of an optimisation team, particularly if they are in the process of building this team anew.Who should be involved in an Agile optimisation team? What core principles should be applied? Can...",
+      "categories": [
+        "Digital Marketing"
+      ]
+    },
+    {
+      "id": "2423",
+      "link": "/blog/wait-dont-leave-am-i-really-that-predictable/",
+      "date": "July 23, 2017",
+      "author": "Katie Bisgrove",
+      "title": "Wait…don’t leave – am I really that predictable?",
+      "intro": "So you’ve had exit intent messaging on your site for a while now and are not seeing the uptake it once did. So If any of the following scenarios below resemble your exit intent strategy, then you may just be the predictable one in your customer relationship. You only have Exit Intent on your check out funnel You consistently offer...",
+      "categories": [
+        "eCommerce",
+        "Improving Conversion",
+        "Optimisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2439",
+      "link": "/blog/flash-of-original-content-content-flickering-acceptable-or-avoidable/",
+      "date": "July 18, 2017",
+      "author": "Sandeep Shah",
+      "title": "Flash of Original Content: Content Flickering – Acceptable or Avoidable?",
+      "intro": "Despite people discussing the topic in 2001, the issue of content flicker still exists. And the more we speak to various businesses, the more we realize that this is still a problem in our industry. A bit of the page loads in, you get a bit of white flash, and then the user is presented with content from the experiment...",
+      "categories": [
+        "Featured Post",
+        "Optimisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2435",
+      "link": "/blog/the-future-of-retail-is-still-strong-but-different/",
+      "date": "July 14, 2017",
+      "author": "John Fleming",
+      "title": "The future of retail is still strong, but different.",
+      "intro": "Driving your customers online.We are all hearing that retail outlets are not performing as well as they have been and the advent of online shopping is growing. There’s no doubt that there are two attracting forces at work that are accelerating online purchasing.1) A push for retailers to reduce cost2) Consumers drive towards convenienceBoth are extremely powerful forces that combined...",
+      "categories": [
+        "Mobile App",
+        "Optimisation",
+        "Retail"
+      ]
+    },
+    {
+      "id": "2432",
+      "link": "/blog/light-at-the-end-of-the-funnel/",
+      "date": "July 11, 2017",
+      "author": "Sandeep Shah",
+      "title": "Light at the end of the funnel",
+      "intro": "Let’s fix some common problems with the dark side of the checkout funnel – Payment Pages.Payment pages are very much the dark side of a purchase process. It’s where final decisions are made, money is exchanged, and you live with the regret of buying a vegetable spiralizer from Amazon at 2am.Convincing users to make a purchase is never easy (unless...",
+      "categories": [
+        "eCommerce",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2426",
+      "link": "/blog/the-thank-you-page-doesnt-always-mean-goodbye/",
+      "date": "July 7, 2017",
+      "author": "Sara Caselli",
+      "title": "The thank you page doesn’t always mean goodbye",
+      "intro": "I have optimised the homepage, my landing pages, my product pages, category pages, search results, basket page, payment page…what’s next?”A lot of very mature clients who started optimising years ago will have tested more or less all of the pages on their websites. Although we know that CRO is a continuous iterative process and we need to test, test and...",
+      "categories": [
+        "Optimisation",
+        "Test Ideas",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2446",
+      "link": "/blog/onsite-retargeting-optimising-for-returning-visitors/",
+      "date": "June 30, 2017",
+      "author": "Phil Williams",
+      "title": "Onsite Retargeting – Optimising for returning visitors",
+      "intro": "Onsite retargeting is a term you’ve likely heard countless times before. When it comes to our customers one size doesn’t fit all. We all have different needs, goals and desires. That’s why we need to start treating our website visitors differently.What Do We Know About Our Visitors?As soon as a visitor reaches our site we actually know quite a lot...",
+      "categories": [
+        "Personalisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2449",
+      "link": "/blog/helloooo-is-it-me-this-youre-looking-for/",
+      "date": "June 29, 2017",
+      "author": "Saba Ismail",
+      "title": "Helloooo (is it me / this) you’re looking for?",
+      "intro": "Hello Bars, Nano Bars, Notification Bars or whatever you want to call the long sticky promotional banner on your site are great ways to generate leads, host announcements, gather email subscribers and so much more. In essence they get the KPI done!Hello Bars are the gentle reminders you need on your site; subtle enough so not to freak out your...",
+      "categories": [
+        "eCommerce",
+        "Personalisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2526",
+      "link": "/blog/how-do-you-maximise-your-sites-experience-optimisation-efforts/",
+      "date": "October 12, 2016",
+      "author": "Matt Smith",
+      "title": "How Do You Maximise Your Site’s Experience Optimisation Efforts?",
+      "intro": "In a race to gain competitive advantage and improve visitor experience, website optimisation has proliferated in the past two years as companies try to ensure that their digital properties are as effective as possible.Optimisation is no longer just the ‘button testing’ of earlier years – it’s become much more sophisticated. Now, with a well-developed optimisation strategy, a wealth of information...",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2528",
+      "link": "/blog/think-fast-why-real-time-data-will-become-essential-to-marketing/",
+      "date": "August 31, 2016",
+      "author": "John Fleming",
+      "title": "Think Fast: Why Real-Time Data Will Become Essential to Marketing",
+      "intro": "It’s a pretty basic concept: Listen carefully to your customers and you will learn more about them. The more you hear, the more likely you will meet their needs.To do this effectively in today’s always-connected world, you must now listen to the massive amounts data generated from customer interactions with your brand.Data gathered from customer web browsing, purchasing history and...",
+      "categories": [
+        "Analytics",
+        "Mobile App",
+        "Personalisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2532",
+      "link": "/blog/deliver-great-mobile-app-experiences-with-webtrends-optimize/",
+      "date": "June 20, 2016",
+      "author": "Jill Dornan",
+      "title": "Deliver Great Mobile App Experiences with Webtrends Optimize",
+      "intro": "If you’re like me, you have mobile apps that were used once and then quickly forgotten. Maybe they didn’t work as expected, or they didn’t stand out from the sea of other apps filling up your phone. There’s lots of competition for mobile user attention. According to Juniper Research, by 2017 mobile app downloads will reach 160 billion, which means...",
+      "categories": [
+        "Mobile App"
+      ]
+    },
+    {
+      "id": "2530",
+      "link": "/blog/to-protect-and-serve-optimisation-solutions-must-take-security-and-privacy-seriously/",
+      "date": "June 8, 2016",
+      "author": "Michael Wilson",
+      "title": "To Protect and Serve: Optimisation Solutions Must Take Security and Privacy Seriously",
+      "intro": "Optimisation solutions sit between your content and your users – invisibly collecting information and serving content that defines the customer experience. That places a great deal of responsibility on the optimisation vendor to protect the integrity of the relationship you’ve established with the user in the first place. This is especially important when you test behind the login, within a...",
+      "categories": [
+        "Banking",
+        "Optimisation",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2534",
+      "link": "/blog/can-marketing-lead-the-customer-experience/",
+      "date": "May 20, 2016",
+      "author": "Jill Dornan",
+      "title": "Can Marketing Lead the Customer Experience?",
+      "intro": "Customer experience was the focus of the recent Forrester Research’s Marketing 2016 Forum for Marketing Leaders in New York City. The event included innovators from brands like MGM Resorts, Kimberly-Clark and Flex. From the start the stage was set. Carl Doty, Forrester’s VP Group Director, shared how marketing is entering a post-digital age. According to Forrester’s Customer Experience Index (CX...",
+      "categories": [
+        "Analytics",
+        "Digital Marketing",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2536",
+      "link": "/blog/four-benefits-of-machine-learning-for-marketing/",
+      "date": "March 24, 2016",
+      "author": "Heather Burton",
+      "title": "Four Benefits of Machine Learning for Marketing",
+      "intro": "Webtrends CEO Joe Davis recently added his voice to the discussion surrounding machine learning in the article, “Four Reasons Marketers Should Be Excited About Machine Learning.”He outlines these four key beneficial machine learning characteristics for marketing:Massive data input from unlimited sourcesMachine learning has the ability to consume virtually unlimited amounts of detailed data to constantly review and adjust your message...",
+      "categories": [
+        "Personalisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2538",
+      "link": "/blog/how-to-build-a-financial-services-optimisation-team/",
+      "date": "February 24, 2016",
+      "author": "Michael Wilson",
+      "title": "How to Build a Financial Services Optimisation Team",
+      "intro": "Financial service organisations are constantly seeking the greatest return on investment (ROI) from each touch point and channel in their customers’ journeys.The rapid maturation of digital optimisation – content and experience testing or behavioural targeting – offers reliable and consistent improvement in customer experiences. For financial organisations that constantly work to improve their relationships with each customer, client or member,...",
+      "categories": [
+        "Banking",
+        "Optimisation",
+        "Test Ideas",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2551",
+      "link": "/blog/how-travel-marketers-can-use-first-party-data-to-improve-conversion-rate/",
+      "date": "December 3, 2015",
+      "author": "Michael Wilson",
+      "title": "How Travel Marketers Can Use First-Party Data to Improve Conversion Rate",
+      "intro": "For anyone who has attended the Phocuswright Conference, you know how fast-paced it is. Technology companies attend the conference to showcase their innovations within the travel industry, often with the goal of gaining both visibility and funding. These companies range from bootstrapped start-ups to the largest players everyone knows. For attendees, it’s a rare chance to see the next generation...",
+      "categories": [
+        "Travel",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2549",
+      "link": "/blog/the-path-to-personalisation-critical-success-factors/",
+      "date": "December 2, 2015",
+      "author": "Steve Earl",
+      "title": "The Path to Personalisation: Critical Success Factors",
+      "intro": "It’s clear that every company’s path to web personalisation is different. We provide guidance to our clients to help them get started and work closely with them to advance their capabilities in the areas that are right for their business needs and goals. But even though each company is different, there are themes that are universal indictors of success. Here...",
+      "categories": [
+        "Featured Post",
+        "Improving Conversion",
+        "Optimisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2555",
+      "link": "/blog/path-to-personalisation-your-first-9-steps/",
+      "date": "November 19, 2015",
+      "author": "Liz Martin",
+      "title": "Path to Personalisation: Your First 9 Steps",
+      "intro": "Look at 10 different marketing blogs and you’ll see 10 different recommendations on how to embark on your personalization journey. We happen to like this validation because it places the customer first and at the center of our marketing efforts. So we’re going to put in our two cents as well and add a few use cases and questions to...",
+      "categories": [
+        "AB Test",
+        "Optimisation",
+        "Test Ideas",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2557",
+      "link": "/blog/simple-steps-to-optimise-responsive-and-adaptive-design-websites/",
+      "date": "November 17, 2015",
+      "author": "Michael Wilson",
+      "title": "Simple Steps to Optimise Responsive and Adaptive Design Websites",
+      "intro": "Common goal of responsive design and adaptive design websites: Create consistent, optimised experiences for visitors on any device.Common goal of an optimisation program: Create good overall visitor experiences that yield business results by testing what works and what doesn’t.With these similarities in desired outcomes, it seems intuitive that any company investing in a responsive or adaptive design website, would simultaneously...",
+      "categories": [
+        "AB Test",
+        "Mobile App",
+        "Optimisation",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2553",
+      "link": "/blog/three-travel-success-stories-for-the-holidays/",
+      "date": "November 16, 2015",
+      "author": "Jill Dornan",
+      "title": "Three Travel Success Stories for the Holidays",
+      "intro": "Have you booked your holiday travel yet? Me neither. Guess what, we’re not alone. The prime time for booking holiday flights is between November 17 and December 14. Even later for hotel stays. So the good news is marketers still have time to reach holiday travellers.Customer booking journeys can be complex. By using measurement, A/B and MVT testing and targeting, and...",
+      "categories": [
+        "Optimisation",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2591",
+      "link": "/blog/scalable-optimisation-ensures-that-customers-get-the-experiences-you-intend/",
+      "date": "October 22, 2015",
+      "author": "Michael Wilson",
+      "title": "Scalable Optimisation Ensures That Customers Get the Experiences You Intend",
+      "intro": "So far in our optimisation blog series, we have discussed the top 10 attributes of an enterprise optimisation program, ease of use, and collaboration and how they all play into the creation of customer experiences for the purposes of testing and targeting. Now I’d like to address the basic fact that optimisation solutions deliver experiences to customers and for enterprise...",
+      "categories": [
+        "Landing Pages CRO",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2562",
+      "link": "/blog/the-path-to-personalisation-a-framework-for-digital-marketing-advancement/",
+      "date": "October 14, 2015",
+      "author": "Steve Earl",
+      "title": "The Path to Personalisation: A Framework for Digital Marketing Advancement",
+      "intro": "Over the last month, I’ve addressed the challenges marketers face as they begin to personalise experiences for their customers and the trends that affect the advancement of an organisation’s digital marketing. Now to the most exciting part: A framework to help you start down the path to personalisation in the digital world. The purpose of the framework is to provide...",
+      "categories": [
+        "AB Test",
+        "Optimisation",
+        "Personalisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2589",
+      "link": "/blog/collaborative-optimisation-lifts-all-boats/",
+      "date": "October 8, 2015",
+      "author": "Michael Wilson",
+      "title": "Collaborative Optimisation Lifts All Boats",
+      "intro": "The hallmarks of a successful optimisation program are increasing test volume and broadening support across business units and geographies. Adoption increases if the program demonstrates value, but this success can lead to friction that may threaten the momentum the program enjoyed in its early phases. Program tension occurs when the goals of various practitioners begin to overlap.For example: Marketers need...",
+      "categories": [
+        "AB Test",
+        "Improving Conversion",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2595",
+      "link": "/blog/the-path-to-personalisation-three-trends-shaping-the-next-generation-of-marketing/",
+      "date": "September 23, 2015",
+      "author": "Steve Earl",
+      "title": "The Path to Personalisation: Three Trends Shaping the Next Generation of Marketing",
+      "intro": "An April 2015 Forrester Research report: The Year Of The Big Digital Shift, shared that nearly half of marketers plan to increase digital budgets in 2015. While the survey focused on B2C marketers, we believe this trend is emerging in all industries. The question then becomes, where will (and where should) this extra budget be spent and what impact will...",
+      "categories": [
+        "Personalisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2597",
+      "link": "/blog/the-future-of-optimisation-and-our-takeaways-from-the-recent-forrester-wave/",
+      "date": "September 22, 2015",
+      "author": "Michael Wilson",
+      "title": "The Future of Optimisation and Our Takeaways from the Recent Forrester Wave",
+      "intro": "Webtrends Optimize believes that the recent release of The Forrester Wave™: Online Testing Platforms, Q3 2015 from Forrester Research makes a number of things clear including the fact that this is a mature market where all but one vendor is positioned as a Strong Performer or a Leader. For clients, this means you can feel comfortable evaluating vendors on their...",
+      "categories": [
+        "AB Test",
+        "Business Updates",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2601",
+      "link": "/blog/intuitive-experiences-make-complex-testing-easier/",
+      "date": "September 10, 2015",
+      "author": "Michael Wilson",
+      "title": "Intuitive Experiences Make [Complex] Testing Easier",
+      "intro": "Here I’ll address how intuitive experiences can make the most complex testing much easier. Does this seem too obvious? It should. Why, then, is it that so many website optimisation companies only tout making simple testing easier with phrases like “simple A/B testing” or “A/B testing you will use”? They offer more complex multivariate testing, but do their best to...",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2593",
+      "link": "/blog/the-path-to-personalisation-what-stands-in-the-way-of-marketers/",
+      "date": "September 9, 2015",
+      "author": "Steve Earl",
+      "title": "The Path to Personalisation: What Stands in the Way of Marketers?",
+      "intro": "Recently, we surveyed several of our clients and asked them what challenges they face as they work to improve and advance their company’s digital marketing. We specifically wanted to know about the barriers that stand in their way and which ones matter most. The data shows that the most common barrier is silos and a lack of organisational alignment.The widespread...",
+      "categories": [
+        "Digital Marketing",
+        "Optimisation",
+        "Personalisation",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2599",
+      "link": "/blog/insider-view-of-microsofts-centre-of-excellence-for-optimisation/",
+      "date": "September 1, 2015",
+      "author": "Joe Worthey",
+      "title": "Insider View of Microsoft’s Centre of Excellence for Optimisation",
+      "intro": "The sheer scale of Microsoft still amazes me to this day. I have been a regular at the Redmond campus for the past few years since I started my role as an Optimisation Consultant with Webtrends. Microsoft is an amazing place of innovation, complexity and continuous change. It really exemplifies the definition of an enterprise business.Microsoft has been using Webtrends...",
+      "categories": [
+        "Industry Comment",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2603",
+      "link": "/blog/top-10-attributes-of-enterprise-optimisation-programs/",
+      "date": "August 20, 2015",
+      "author": "Michael Wilson",
+      "title": "Top 10 Attributes of Enterprise Optimisation Programs",
+      "intro": "The market is awash with optimisation solutions – technologies that provide website testing, conversion rate optimisation, user experience optimisation and more – that are designed to support the basic needs of small to medium businesses. The success of vendors in the lower-end of the market has shaped the way optimisation is understood by the broader market and has placed an...",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2606",
+      "link": "/blog/how-to-build-an-enterprise-class-optimisation-team/",
+      "date": "August 4, 2015",
+      "author": "Maxwell Spector",
+      "title": "How to Build an Enterprise-Class Optimisation Team",
+      "intro": "Running an enterprise-class optimisation program consisting of sophisticated testing and targeting can be one heck of a challenge. Distributed ownership, unclear optimisation goals or processes, legacy technical systems and rigorous security requirements can all derail a budding optimisation program within an enterprise environment.However, while working closely with clients in technology, financial services, travel and many other industries, we’ve found that...",
+      "categories": [
+        "AB Test",
+        "Analytics",
+        "Meet the Team",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2610",
+      "link": "/blog/opportunities-to-increase-form-fills-and-completed-applications-on-your-site/",
+      "date": "July 30, 2015",
+      "author": "Maxwell Spector",
+      "title": "Opportunities to Increase Form Fills and Completed Applications on Your Site",
+      "intro": "The most common website conversion metric for a bank, credit union, insurance or other financial services company is the act of filling out a form. It can be a simple request for a visitor’s zip code in order to provide a more personalized quote or a more substantial form asking for a visitor’s complete contact information...",
+      "categories": [
+        "Banking",
+        "Optimisation",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2614",
+      "link": "/blog/eight-steps-to-an-effective-digital-measurement-strategy/",
+      "date": "July 7, 2015",
+      "author": "Steve Earl",
+      "title": "Eight Steps to an Effective Digital Measurement Strategy",
+      "intro": "Measurement is at the core of effective digital marketing. With a strategy in place that clearly defines the data you need to measure success, you’ll be able to show how marketing contributes to your organization’s bottom line. When developing a measurement strategy, here are eight must-do steps:1. Define your business goalsConsider what success means to your...",
+      "categories": [
+        "Analytics",
+        "Digital Marketing"
+      ]
+    },
+    {
+      "id": "2638",
+      "link": "/blog/website-testing-101-a-b-vs-multivariate-testing/",
+      "date": "June 24, 2015",
+      "author": "Maxwell Spector",
+      "title": "Website Testing 101: A/B vs. Multivariate Testing",
+      "intro": "If you’re a marketer, you’re probably familiar with this conversation (or one much like it): “Hey, our homepage is getting pretty boring. Let’s make some changes. I think we need a new image for our hero. And what about updating the color of that button? I think green would look better.”Another colleague: “Yeah, I think we...",
+      "categories": [
+        "AB Test",
+        "MVT"
+      ]
+    },
+    {
+      "id": "2632",
+      "link": "/blog/what-to-do-when-your-website-test-is-inconclusive/",
+      "date": "June 16, 2015",
+      "author": "John Bennett",
+      "title": "What to Do When Your Website Test is Inconclusive",
+      "intro": "The foundation of any good testing and optimization program are your hypotheses. A good hypothesis creates a strong framework for analyzing the interaction between your website visitors and your site’s user experience. Your hypothesis delineates your beliefs about your audience, your beliefs about your user experience and your beliefs about change.A test hypothesis should encompass several...",
+      "categories": [
+        "AB Test",
+        "Analytics",
+        "Improving Conversion",
+        "MVT",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2636",
+      "link": "/blog/how-to-get-more-from-your-mobile-marketing-dollars/",
+      "date": "June 2, 2015",
+      "author": "Steve Earl",
+      "title": "How to Get More From Your Mobile Marketing Dollars",
+      "intro": "Marketers are spending more and more on mobile advertising with no signs of slowing down. In fact, U.S. mobile advertising will grow from $12 billion in 2015 to $19 billion in 2018 according to PwC. Unfortunately, in today’s economy, a lot of that money isn’t being well spent. The problem: Treating mobile as a silo rather...",
+      "categories": [
+        "Mobile App",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2644",
+      "link": "/blog/how-to-optimise-the-travel-booking-funnel/",
+      "date": "May 27, 2015",
+      "author": "Tony Gray",
+      "title": "How to Optimise the Travel Booking Funnel",
+      "intro": "Understanding the customer journey, in its entirety, is a puzzle that continues to challenge digital marketers, particularly when it comes to perfecting the process of online travel marketing and booking. The reality is that there are so many factors that impact whether a consumer makes a final decision to purchase travel – these factors take place on and offline, across...",
+      "categories": [
+        "AB Test",
+        "Improving Conversion",
+        "Optimisation",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2642",
+      "link": "/blog/personalisation-is-more-than-using-someones-name/",
+      "date": "May 6, 2015",
+      "author": "Tony Gray",
+      "title": "Personalisation is More Than Using Someone’s Name",
+      "intro": "It’s no surprise to marketers that the more targeted and personal they can get with their communications and experiences, the more they’ll convert consumers into buyers – and, better yet, build customer loyalty. In a highly competitive marketplace, such as travel, loyalty is like gold. Unfortunately, even with all the data and technology available to travel marketers, many still struggle...",
+      "categories": [
+        "Digital Marketing",
+        "Personalisation",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2640",
+      "link": "/blog/please-dont-go-three-exit-intent-technology-tactics-that-wont-annoy-your-visitors/",
+      "date": "May 5, 2015",
+      "author": "Tom Waterfall",
+      "title": "PLEASE DON’T GO! Three Exit Intent Technology Tactics That Won’t Annoy Your Visitors",
+      "intro": "Exit intent technology. Digital marketing’s version of KC and The Sunshine Band’s “Please don’t go.”We’ve proven over and over through A/B testing that using exit intent technology to trigger an overlay can be an extremely effective way of salvaging abandoning visitors. Examples of triggered content include the proposition of discount codes or newsletter sign-up prompts. Some...",
+      "categories": [
+        "AB Test",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2646",
+      "link": "/blog/webtrends-brings-new-features-to-its-optimize-visual-editor-for-testing-and-targeting/",
+      "date": "April 21, 2015",
+      "author": "Maxwell Spector",
+      "title": "Webtrends brings new features to its Optimize visual editor for testing and targeting",
+      "intro": "Enterprise marketers face unique challenges when optimizing their digital properties: How can my multiple teams test simultaneously without encountering poor or broken experiences? Can I test experiences that span multiple domains? These same marketers also feel the universal pains of limited bandwidth and are often stretched to find the right resources and expertise that will ensure...",
+      "categories": [
+        "AB Test",
+        "Business Updates",
+        "Digital Marketing",
+        "MVT"
+      ]
+    },
+    {
+      "id": "2652",
+      "link": "/blog/behind-the-scenes-search-engine-optimisation-tactics-before-and-after-a-website-redesign/",
+      "date": "March 19, 2015",
+      "author": "Nicole Snedden",
+      "title": "Behind the Scenes: Search Engine Optimisation Tactics Before and After a Website Redesign",
+      "intro": "Whenever you undertake a large website redesign, inevitably you get to the SEO stage. So I’m going to use this blog to answer a few common questions to hopefully help your process move along a little smoother.First off, what is SEO and how has it evolved?Search Engine Optimization (SEO) is the process of improving visibility and promoting a site and...",
+      "categories": [
+        "SEO",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2648",
+      "link": "/blog/keeping-up-with-travel-marketers-in-changing-times/",
+      "date": "March 18, 2015",
+      "author": "Tony Gray",
+      "title": "Keeping Up With Travel Marketers in Changing Times",
+      "intro": "Keeping Up With Travel Marketers in Changing TimesTravel is an industry that was once dominated by face-to-face and phone engagement. These days, travelers are increasingly focused on digital, not human, interaction. A successful travel marketing strategy requires understanding the rapidly-changing customer journey from destination inspiration and research to booking to post-stay social engagement.It seems that each...",
+      "categories": [
+        "Analytics",
+        "Digital Marketing",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2650",
+      "link": "/blog/how-ad-hoc-exploration-helps-a-global-airline-optimise-its-user-experience/",
+      "date": "March 5, 2015",
+      "author": "Steve Earl",
+      "title": "How Ad Hoc Exploration Helps a Global Airline Optimise Its User Experience",
+      "intro": "Steve: In my last blog, I talked about some of the use cases for Webtrends Explore that we have seen from our clients over the last 9-12 months. Recently, I spoke with Thomas Gerstmann from e-dynamics who works with one of our large airline clients to get his perspective. Thomas, thanks for providing details about your experiences with Webtrends Explore...",
+      "categories": [
+        "Analytics",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2658",
+      "link": "/blog/improving-the-employee-journey-is-key-to-optimising-the-customer-experience/",
+      "date": "October 23, 2014",
+      "author": "Steve Earl",
+      "title": "Improving the “employee journey” is key to optimising the customer experience",
+      "intro": "I attended the Customer Experience Exchange for Financial Services a couple of weeks ago and had several in-depth conversations with executives responsible for customer experience. These were representatives from some of the largest banks and insurance companies in the U.S. Clearly, customer experience is top of mind for these companies and is considered a cross-functional discipline that sometimes is owned...",
+      "categories": [
+        "Industry Comment",
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2654",
+      "link": "/blog/what-does-it-take-to-provide-enterprise-class-optimisation-more-than-a-pretty-face/",
+      "date": "October 20, 2014",
+      "author": "Michael Wilson",
+      "title": "What does it take to provide enterprise-class optimisation? More than a pretty face.",
+      "intro": "In the early days of optimization, everything was about science and measurement. Solutions gladly exposed the fact that they support a/b/n, split and multivariate testing (proudly proclaiming support for not only full-factorial, but also Taguchi or fractional factorial). Reporting provided multiple reports with an ability to export or extract that data for further analysis in Excel or some kind of...",
+      "categories": [
+        "AB Test",
+        "Analytics",
+        "MVT",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2660",
+      "link": "/blog/customer-engagement-is-not-about-befriending-your-customers-its-about-understanding-them/",
+      "date": "October 15, 2014",
+      "author": "Joe Davis",
+      "title": "Customer engagement is not about befriending your customers – it’s about understanding them",
+      "intro": "I read an interesting article in AdAge recently that served as a good reminder of just how hard it can be to market effectively across multiple channels. The piece rightly questions the notion put forth by marketers lately that consumers want to be “friends” with brands. The headline ­­sums up my point nicely: “Brands: Consumers Don’t...",
+      "categories": [
+        "Visitor Engagement"
+      ]
+    },
+    {
+      "id": "2662",
+      "link": "/blog/new-technologies-are-changing-the-face-of-personalisation/",
+      "date": "September 10, 2014",
+      "author": "Maxwell Spector",
+      "title": "New technologies are changing the face of personalisation",
+      "intro": "Recently, I presented at Marketo’s Marketers First virtual conference on the topic of new opportunities for marketers to provide integrated digital experiences. My session discussed the evolution of digital marketing and how new technologies have opened the door to real-time access to the customer journey across digital channels and devices – allowing for the creation of powerful personalized experiences.Up until...",
+      "categories": [
+        "Digital Marketing",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "2664",
+      "link": "/blog/get-personal-to-avoid-becoming-brand-spam/",
+      "date": "September 4, 2014",
+      "author": "John Fleming",
+      "title": "Get personal to avoid becoming “brand spam”",
+      "intro": "We recently commissioned a survey of 2,000 British consumers to find out more about their habits and opinions when it comes to email marketing. What we found is that spam is driving them mad – even though many of those emails are from brands they actually like.The research revealed that the average Brit has 260 unopened...",
+      "categories": [
+        "Digital Marketing",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "2670",
+      "link": "/blog/the-power-of-optimize/",
+      "date": "July 11, 2014",
+      "author": "Vladimir Brayman",
+      "title": "The Power of Optimize",
+      "intro": "Recently, I spoke to a group of statisticians at the Joint Research Conference in Seattle about website testing. During the presentation, I explained the complex technology that underpins Optimize, our testing solution, but also highlighted the fact that we developed it to be used by marketers, not statisticians. It’s designed to let marketers run tests to...",
+      "categories": [
+        "AB Test"
+      ]
+    },
+    {
+      "id": "2672",
+      "link": "/blog/conversions-are-only-part-of-the-customer-experience-equation/",
+      "date": "June 30, 2014",
+      "author": "Michael Wilson",
+      "title": "Conversions are only part of the customer experience equation",
+      "intro": "This week, I attended the Forrester Forum for Customer Experience Professionals in New York, which is a conference that provides research and insight on how to create the most compelling customer experiences in order to grow revenue, retain customers and have those customers recommend your brand. During my stay, I had an opportunity to speak with...",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2674",
+      "link": "/blog/a-perfect-fit-mindjet-agile-marketing-and-optimisation/",
+      "date": "May 19, 2014",
+      "author": "Brendan Regan",
+      "title": "A Perfect Fit: Mindjet, Agile Marketing and Optimisation",
+      "intro": "Believing strongly in Agile Marketing is part of the reason why I’ve devoted the last six years of my career to consulting with clients on how to better test their sites and optimize their marketing.Learn How Mindjet Partners with Webtrends to OptimizeTheir Digital Marketing and Win Sales From the CompetitionRecently, I’ve been working closely with Mindjet, an innovation management software...",
+      "categories": [
+        "Analytics",
+        "MVT",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2677",
+      "link": "/blog/taking-the-customer-experience-all-the-way-to-the-bank/",
+      "date": "April 30, 2014",
+      "author": "Michael Wilson",
+      "title": "Taking the Customer Experience All the Way to the Bank",
+      "intro": "Earlier this week, we were down in Miami at NetFinance, a multi-channel marketing conference targeted specifically at financial institutions. During the show, we met with banks and various financial institutions to identify their struggles and provide suggestions on how to help them better understand their online customers. Webtrends at NetFinanceOnline banking and financial services are industries...",
+      "categories": [
+        "Banking",
+        "eCommerce"
+      ]
+    },
+    {
+      "id": "2682",
+      "link": "/blog/5-ways-to-optimise-your-event-marketing/",
+      "date": "October 7, 2013",
+      "author": "Karen Wood",
+      "title": "5 Ways to Optimise Your Event Marketing",
+      "intro": "Last week, we sponsored Shop.org, one of the world’s biggest and most important conferences for digital retailers. But this wasn’t just business as usual.Like many of you, a big part of our event focus centers on delivering a booth experience that genuinely resonates. Sometimes that comes in the form of a can’t-miss visual hook, other times it’s an exciting social...",
+      "categories": [
+        "Business Updates"
+      ]
+    },
+    {
+      "id": "2679",
+      "link": "/blog/we-dont-need-another-hero-home-page-image-face-off/",
+      "date": "October 2, 2013",
+      "author": "Stacia Secreriat",
+      "title": "We Don’t Need Another Hero: Home Page Image Face Off",
+      "intro": "For the past 4 weeks, we’ve had a kitten on our home page. A roly poly, fluffy kitten. It’s part of a test series that our visitors voted on for testing against a previous wacky image of a llamacorn. We didn’t do it for cuteness sake. We wanted to test a theory that if we increase...",
+      "categories": [
+        "AB Test",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2684",
+      "link": "/blog/webtrends-optimize-takes-gold-in-whichtestwons-mobile-optimisation-hall-of-fame/",
+      "date": "August 16, 2013",
+      "author": "Karen Wood",
+      "title": "Webtrends Optimize Takes Gold in WhichTestWon’s Mobile Optimisation Hall of Fame",
+      "intro": "WE GOT GOLD!We’re very excited to share that Webtrends has just been named the only Gold winner in WhichTestWon’s Email and Mobile testing awards. The awards comes in the Mobile Optimization category for a test we did with Hotels4U.The goal of the test was to increase traffic to the Hotel Details page and Search Results page of Hotels4U’s mobile site,...",
+      "categories": [
+        "AB Test",
+        "Mobile App",
+        "Optimisation",
+        "Travel"
+      ]
+    },
+    {
+      "id": "2686",
+      "link": "/blog/beyond-unclear-results-or-small-gains-what-makes-a-worthwhile-test/",
+      "date": "July 11, 2013",
+      "author": "Stacia Secreriat",
+      "title": "Beyond unclear results or small gains. What makes a worthwhile test?",
+      "intro": "This week concludes a series of tests we’ve been conducting on our monthly customer newsletter. The first test changed the design and content strategy of the newsletter, and we saw significant increase in both open rate and click-throughs. The second test built on the success of the first and aimed to find the subject line that...",
+      "categories": [
+        "Improving Conversion",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2688",
+      "link": "/blog/personalise-and-provide-the-best-digital-experience/",
+      "date": "June 18, 2013",
+      "author": "Tim Germer",
+      "title": "Personalise! and Provide the Best Digital Experience",
+      "intro": "“Tim, try our new & improved product today!”“Tim, your cat Gracie is in need of brand x flee treatment!”I’m developing a condition. One where I’m blind to personalized offers. I was more apt to develop this condition because of my career choice, but I have a sneaking hunch that my friends are infected with this condition as well. Since an...",
+      "categories": [
+        "Digital Marketing",
+        "eCommerce",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "2690",
+      "link": "/blog/carpe-diem-its-more-than-a-quote-from-dead-poets-society/",
+      "date": "June 8, 2013",
+      "author": "Karen Wood",
+      "title": "Carpe Diem – It’s More Than a Quote from Dead Poets Society",
+      "intro": "“Carpe Diem, sieze the day. Gather ye rosebuds while ye may.” This idea of seizing the moment originates from the 1600’s but it comes up over and over again in film, literature, art, and… marketing? Yes, marketing. Or at least it should.Think about it. As marketers, we try to build personal connections with individuals through campaigns,...",
+      "categories": [
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "2692",
+      "link": "/blog/more-clicks-less-conversions-valuable-insight/",
+      "date": "May 7, 2013",
+      "author": "Stacia Secreriat",
+      "title": "More Clicks + Less Conversions=Valuable Insight",
+      "intro": "As we announced a couple weeks ago, we’ve been experimenting with our ‘Contact Us’ button on our solutions pages to try and increase clicks (and ultimately, conversions to fill out a contact form).  Our first round of testing resulted in a successful 205% lift in clicks, so we were eager to try out more styles and...",
+      "categories": [
+        "Improving Conversion"
+      ]
+    },
+    {
+      "id": "2702",
+      "link": "/blog/five-steps-to-drive-double-digit-conversion-lift/",
+      "date": "February 22, 2013",
+      "author": "Stephen Eide",
+      "title": "Five Steps to Drive Double-Digit Conversion Lift",
+      "intro": "If you followed the recommendations in part one of this series, you’re now convinced that testing is important. And you’re committed to relying on data instead of listening to HIPPOs (the highest paid person’s opinion) when it comes to your online presence.Congratulations on your new point of view. Making modifications based on test results can generate...",
+      "categories": [
+        "AB Test",
+        "Analytics",
+        "Landing Pages CRO",
+        "MVT"
+      ]
+    },
+    {
+      "id": "2696",
+      "link": "/blog/what-should-you-expect-from-a-testing-tool/",
+      "date": "February 19, 2013",
+      "author": "Vladimir Brayman",
+      "title": "What Should You Expect from a Testing Tool?",
+      "intro": "Today we will look at what you should expect from good testing tools in your marketing programs and campaigns. In my previous blogs, I showed that:Decision making requires causal relationships.The causal relationships can be found only through carefully performed experimentation, the process that is not that different from the scientific method.I also mentioned at the end of my...",
+      "categories": [
+        "Digital Marketing"
+      ]
+    },
+    {
+      "id": "2700",
+      "link": "/blog/moneysupermarket-com-wins-gold-from-whichtestwon-for-best-financial-multivariate-testing/",
+      "date": "February 18, 2013",
+      "author": "Tom Waterfall",
+      "title": "Moneysupermarket.com Wins Gold from WhichTestWon for Best Financial Multivariate Testing",
+      "intro": "Webtrends is pleased to congratulate UK customer Moneysupermarket.com for winning a Gold Ribbon at the recent WhichTestWon awards celebrating the Best 31 Online A/B & Multivariate Tests.Moneysupermarket.com, the leading British price comparison website specialising in financial services, insurance and travel products, won the honor for running a multivariate test in the Credit Cards channel that looked to...",
+      "categories": [
+        "AB Test",
+        "Analytics",
+        "MVT",
+        "Personalisation"
+      ]
+    },
+    {
+      "id": "2694",
+      "link": "/blog/why-you-need-to-stop-listening-to-hippos-start-testing/",
+      "date": "February 14, 2013",
+      "author": "Karen Wood",
+      "title": "Why You Need to Stop Listening to HIPPOs + Start Testing",
+      "intro": "Is your website optimization program managed by a HIPPO? That is, the Highest Paid Person’s Opinion?If so, you’re likely stuck in a rut of making site changes, analyzing behavior and conversion rates, implementing new changes as a result, analyzing those changes, and so on.Multivariate testing (MVT) stops the endless cycle of change-and-analyze dead in its tracks...",
+      "categories": [
+        "MVT",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2705",
+      "link": "/blog/7-steps-for-growing-revenue-with-conversion-optimisation/",
+      "date": "February 7, 2013",
+      "author": "Karen Wood",
+      "title": "7 Steps for Growing Revenue with Conversion Optimisation",
+      "intro": "At Webtrends, we work closely with brands to test their online content, discover what performs best, and target those results for an ongoing increase of conversion and revenue. With over 10 years of experience in optimization, we understand that a good test plan requires a foundation for good hypotheses. When beginning to test, developing a hypothesis can seem like a...",
+      "categories": [
+        "eCommerce",
+        "Landing Pages CRO",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2698",
+      "link": "/blog/future-of-optimisation-and-customer-perspectives/",
+      "date": "February 1, 2013",
+      "author": "Michael Wilson",
+      "title": "The Future of Optimisation and Customer Perspectives",
+      "intro": "Joe Stanhope, Principal Analyst at Forrester Research, took the stage at Engage yesterday to provide a keynote on “Optimization: A Look Ahead” followed by an all-star panel of brands discussing “The Customer Perspective: Essential Optimization Strategies @ Work.”Joe began by stating that Optimization (online testing and targeting)  should be a core capability for any competent analytics program. The world is...",
+      "categories": [
+        "AB Test",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2709",
+      "link": "/blog/how-to-increase-revenue-drive-conversions-with-multivariate-testing/",
+      "date": "January 31, 2013",
+      "author": "Karen Wood",
+      "title": "How to Increase Revenue + Drive Conversions with Multivariate Testing",
+      "intro": "As one company executive stated during a recent optimization presentation, “Testing your content is like a license to print money.”For those familiar with optimization, there’s no doubt about it. Online testing and content targeting are the only sure methods for finding out what your customers respond to on a digital property, and what gets them to...",
+      "categories": [
+        "AB Test",
+        "MVT"
+      ]
+    },
+    {
+      "id": "2711",
+      "link": "/blog/mobile-landing-page-functionality/",
+      "date": "December 28, 2012",
+      "author": "John Lee",
+      "title": "Mobile Landing Page Functionality",
+      "intro": "It is very important for online retailers to invest in mobile-specific landing pages. There are many online retailers, yet some of them lack fully optimized mobile landing pages.  A higher percentage of people make purchases on mobile phones now, and this will only increase in years to come.During Cyber weekend, mobile sales increased to 16%. Mobile queries...",
+      "categories": [
+        "Mobile App",
+        "Optimisation"
+      ]
+    },
+    {
+      "id": "2713",
+      "link": "/blog/embarrassing-predictions-a-foray-into-mobile-and-tablet-optimisation-part-3/",
+      "date": "December 17, 2012",
+      "author": "Tom Waterfall",
+      "title": "Embarrassing Predictions: A foray into mobile and tablet optimisation (Part 3)",
+      "intro": "Welcome back. I hope you have been following my three-part blog series on tablet and mobile optimization. In this third and final part, I will conclude my top four considerations for optimizing on mobile and tablet devices. Enjoy!1.       Form over follows functionLet’s be honest: smartphones and tablets are not great for data entry. Input areas are often too small, options too...",
+      "categories": [
+        "Improving Conversion",
+        "Mobile App",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2715",
+      "link": "/blog/embarrassing-predictions-a-foray-into-mobile-and-tablet-optimisation-part-2/",
+      "date": "December 10, 2012",
+      "author": "Tom Waterfall",
+      "title": "Embarrassing Predictions: A foray into mobile and tablet optimisation (Part 2)",
+      "intro": "In my blog last week, I looked at why mobile and tablet optimization was imperative to businesses. In this second blog of the series, I’ll explore why the time is now to optimize  – I will also provide you with two of my top four considerations for tablet and mobile optimization.Is the time now?Everyone should be thinking about it, but...",
+      "categories": [
+        "Digital Marketing",
+        "Improving Conversion",
+        "Mobile App",
+        "Test Ideas",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2717",
+      "link": "/blog/embarrassing-predictions-a-foray-into-mobile-and-tablet-optimisation-part-1/",
+      "date": "December 2, 2012",
+      "author": "Tom Waterfall",
+      "title": "Embarrassing Predictions: A foray into mobile and tablet optimisation (Part 1)",
+      "intro": "In our line of work, putting your intuition on the line is the norm. Predictions – albeit with some measure of a hypothesis – are what we do, and we often get them wrong. When we look back at some of the predictions made in the technology space in the last 150 odd years, we realize some of our predictions...",
+      "categories": [
+        "Industry Comment",
+        "Retail",
+        "Test Ideas"
+      ]
+    },
+    {
+      "id": "2722",
+      "link": "/blog/five-tips-for-optimising-your-conversion-funnel/",
+      "date": "October 22, 2012",
+      "author": "Karen Wood",
+      "title": "Five Tips for Optimising Your Conversion Funnel",
+      "intro": "In our last Webtrends Optimization blog, we shared five tips for making the most of your testing and content targeting strategy. These tips come from 15 years of working with top brands and seeing first-hand the remarkable conversion results they get by following these insider tactics. As promised, here are the second five tips for optimizing your conversion funnel (plus...",
+      "categories": [
+        "Analytics",
+        "eCommerce",
+        "Improving Conversion",
+        "Landing Pages CRO"
+      ]
+    },
+    {
+      "id": "2724",
+      "link": "/blog/the-easiest-squeeze-why-you-should-test-landing-pages/",
+      "date": "September 26, 2012",
+      "author": "Karen Wood",
+      "title": "The Easiest Squeeze: Why You Should Test Landing Pages",
+      "intro": "A landing page is often the first thing visitors and customers see when they interact with your brand online. If they like what they see, they stick around. If they don’t, they leave.Whether a landing page is used with mobile apps, social campaigns and/or on the web, it is the stage in the sales funnel most...",
+      "categories": [
+        "Landing Pages CRO",
+        "Mobile App",
+        "Website Design"
+      ]
+    },
+    {
+      "id": "2730",
+      "link": "/blog/your-landing-pages-arent-as-successful-as-they-should-be/",
+      "date": "January 10, 2012",
+      "author": "Tim Germer",
+      "title": "Your Landing Pages Aren’t As Successful As They Should Be",
+      "intro": "We depend on our websites to engage with visitors and convert them to buyers. Those involved in content creation and design are usually informed and influenced by design best practices or the likes/dislikes of a HiPPO (Highest Paid Person in the Office). While the constraints of a CMS platform or the trade-offs made due to budget...",
+      "categories": [
+        "Digital Marketing",
+        "Landing Pages CRO",
+        "Personalisation"
+      ]
+    }
+  ]
+}
